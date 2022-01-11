@@ -1,0 +1,131 @@
+{
+  "title": "Ministry of Social Affairs and Labour (Kuwait)",
+  "pageID": 59028594,
+  "categories": [
+    "Government ministries of Kuwait",
+    "Social affairs ministries",
+    "1954 establishments in Kuwait",
+    "Ministries established in 1954",
+    "Labour ministries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Social Affairs and Labour is a government ministry in Kuwait.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuwait"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Social Affairs and Labour"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Established in 1954, it is responsible for issuing of work permits and dealing with expatriates and enforcing labor regulation in the private sector.",
+              "links": [
+                {
+                  "text": "work permits",
+                  "type": "internal",
+                  "page": "Work permit"
+                },
+                {
+                  "text": "expatriates",
+                  "type": "internal",
+                  "page": "Expatriate"
+                }
+              ]
+            },
+            {
+              "text": "It has a number of halls across the country normally used for social occasions which were opened as shelters in the flooding in November 2018.",
+              "links": [
+                {
+                  "text": "flooding",
+                  "type": "internal",
+                  "page": "Flood"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Essa Al Kandari is the current minister."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Ministry Of Social Affairs And Labour",
+          "url": "https://www.kuwaitlocal.com/business/ministry-of-social-affairs-and-labour",
+          "accessdate": "11 November 2018",
+          "publisher": "Kuwait Local",
+          "date": "2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Call to Coordinate Efforts in ‘Protecting Rights’ of Expats",
+          "url": "https://qkuwait.com/tags/mosal",
+          "accessdate": "11 November 2018",
+          "publisher": "QKuwait",
+          "date": "18 May 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwait Labor Law",
+          "url": "https://www.kuwaitlaborlaw.com/",
+          "website": "Kuwait Labor Law",
+          "accessdate": "11 November 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kuwait gov’t bodies mobilized to deal with heavy rainfall",
+          "url": "http://news.kuwaittimes.net/website/kuwait-govt-bodies-mobilized-to-deal-with-heavy-rainfall/",
+          "accessdate": "11 November 2018",
+          "work": "Kuwait Times",
+          "date": "10 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwaiti minister’s visit signals renewed cooperation",
+          "url": "https://www.khmertimeskh.com/50548710/kuwaiti-ministers-visit-signals-renewed-cooperation/",
+          "accessdate": "11 November 2018",
+          "work": "Khmer Times",
+          "date": "9 November 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

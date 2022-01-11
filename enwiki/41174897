@@ -1,0 +1,564 @@
+{
+  "title": "Ministry of Oil (Kuwait)",
+  "pageID": 41174897,
+  "categories": [
+    "1975 establishments in Kuwait",
+    "Ministries established in 1975",
+    "Government ministries of Kuwait",
+    "Energy ministries",
+    "Economy of Kuwait"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Oil is one of the governmental bodies of Kuwait and part of the cabinet.",
+              "links": [
+                {
+                  "text": "the governmental bodies",
+                  "type": "internal",
+                  "page": "Government of Kuwait"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kuwait"
+                },
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Kuwait"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Oil"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1975",
+            "month": "4",
+            "date": "1",
+            "df": "yes",
+            "template": "start date and age",
+            "text": "April 1, 1975"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "agency_name": {
+            "text": "Ministry of Oil"
+          },
+          "type": {
+            "text": "Ministerial Department"
+          },
+          "formed": {
+            "text": "April 1, 1975"
+          },
+          "jurisdiction": {
+            "text": "Kuwait",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuwait"
+              }
+            ]
+          },
+          "headquarters": {
+            "text": "Kuwait City",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuwait City"
+              }
+            ]
+          },
+          "minister1_name": {
+            "text": "Mohammed Al Fares",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Al Fares"
+              }
+            ]
+          },
+          "minister1_pfo": {
+            "text": "Minister of Oil, Electricity and Water"
+          },
+          "child1_agency": {
+            "text": "Kuwait Petroleum Corporation (KPC)",
+            "links": [
+              {
+                "text": "Kuwait Petroleum Corporation (KPC)",
+                "type": "internal",
+                "page": "Kuwait Petroleum Corporation"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.moo.gov.kw"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "History and profile",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The production and export of oil in Kuwait were among the responsibilities of Kuwait's finance department until 1962 when the department was reorganized under the name of the ministry of finance and oil."
+            },
+            {
+              "text": "Then the body was renamed as the ministry of finance and economy and dealt with oil-related policies until April 1975 when the ministry of oil was established."
+            },
+            {
+              "text": "The ministry was established to protect the state’s natural resources along with two other major public bodies, namely the Supreme Petroleum Council and the Kuwait Petroleum Corporation.",
+              "links": [
+                {
+                  "text": "Supreme Petroleum Council",
+                  "type": "internal",
+                  "page": "Supreme Petroleum Council (Kuwait)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kuwait Petroleum Corporation"
+                }
+              ]
+            },
+            {
+              "text": "The ministry is headquartered in Kuwait City.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuwait City"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1986 the ministry was separated from the Ministry of Finance.",
+              "links": [
+                {
+                  "text": "Ministry of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Kuwait)"
+                }
+              ]
+            },
+            {
+              "text": "At the same time on 12 August 1986 the mission of the ministry was refined and includes the following: Protecting, exploiting and developing the petroleum resources, and raising the share of petroleum in the national income and securing the safety of workers, environment and structures."
+            },
+            {
+              "text": "The ministry was reorganized as part of the Ministry of Energy in 2003."
+            },
+            {
+              "text": "Following this reorganization, energy policy of the country is overseen by the ministry."
+            },
+            {
+              "text": "The Kuwait Petroleum Corporation is the major state-run body governed by the ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuwait Petroleum Corporation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Kuwait",
+          "url": "http://www.eia.gov/COUNTRIES/cab.cfm?fips=KU",
+          "work": "US Energy Information Administration",
+          "accessdate": "24 November 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kuwait Petroleum Corporation (KPC)",
+          "url": "http://www.gulfoilandgas.com/webpro1/prod1/Partner.asp?sid=6210",
+          "work": "Gulf Oil and Gas",
+          "accessdate": "24 November 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kuwait: Prospect and Reality",
+          "year": "1972",
+          "publisher": "Allen & Unwin",
+          "location": "London",
+          "author": "H. V. F. Winstone",
+          "author2": "Zahra Freeth",
+          "isbn": "}}{{ISBN?|undefined",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Brief History",
+          "url": "http://www.moo.gov.kw/About-Us/Brief-History.aspx",
+          "work": "Ministry of Oil",
+          "accessdate": "24 November 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "A review of upstream development policies in Kuwait",
+          "journal": "OPEC Review",
+          "date": "December 2004",
+          "volume": "28",
+          "issue": "4",
+          "pages": "275–288",
+          "author": "Abdulaziz E. Al Attar",
+          "doi": "10.1111/j.0277-0180.2004.00138.x",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Ministers and functions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The minister of oil is the major advisor to the Amir of Kuwait.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amir of Kuwait"
+                }
+              ]
+            },
+            {
+              "text": "The minister is also a member of the Supreme Petroleum Council."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1978 to June 1990 Ali Khalifa Al Sabah was the minister of oil."
+            },
+            {
+              "text": "Saud Nasser Al Sabah served in the post between 1998 and 2000.",
+              "links": [
+                {
+                  "text": "Saud Nasser Al Sabah",
+                  "type": "internal",
+                  "page": "Saud Nasser Al-Saud Al-Sabah"
+                }
+              ]
+            },
+            {
+              "text": "He resigned from the post in June 2000 due to an explosion that killed five workers at three oil refineries."
+            },
+            {
+              "text": "Adel Al Subaih served as oil minister until February 2002 when he resigned from the post."
+            },
+            {
+              "text": "He was replaced by Ahmed Fahd Al Sabah as oil minister.",
+              "links": [
+                {
+                  "text": "Ahmed Fahd Al Sabah",
+                  "type": "internal",
+                  "page": "Ahmed Al-Fahad Al-Ahmed Al-Sabah"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The ministry was headed by five different officials between February 2006 and February 2009."
+            },
+            {
+              "text": "In late 2007 Bader Mishari Al Humaidhi was appointed oil minister."
+            },
+            {
+              "text": "However, he resigned from office only eight days after his appointment due to harsh criticisms of the members of the Kuwaiti parliament.",
+              "links": [
+                {
+                  "text": "Kuwaiti parliament",
+                  "type": "internal",
+                  "page": "Parliament of Kuwait"
+                }
+              ]
+            },
+            {
+              "text": "Mohammad Al Olaim was the oil minister until his resignation in November 2008."
+            },
+            {
+              "text": "Abdulmohsen Al Madaj also served as Kuwaiti oil minister."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From February 2009 to May 2011 Ahmad Al Abdullah Al Sabah served as the minister of oil.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmad Al Abdullah Al Sabah"
+                }
+              ]
+            },
+            {
+              "text": "Mohammad Al Busairi was the oil minister from May 2011 to February 2012."
+            },
+            {
+              "text": "Hani Hussein was named the oil minister in a cabinet reshuffle in February 2012.",
+              "links": [
+                {
+                  "text": "Hani Hussein",
+                  "type": "internal",
+                  "page": "Hani Abdulaziz Al Hussein"
+                }
+              ]
+            },
+            {
+              "text": "Hussein resigned from office on 26 May 2013 due to tensions with members of the Kuwaiti parliament."
+            },
+            {
+              "text": "Mustafa Jassem Al Shamali served as oil minister from 4 August 2013 to January 2014, when Ali al-Omair replaced him in the post and became the ninth oil minister since 2004.",
+              "links": [
+                {
+                  "text": "Mustafa Jassem Al Shamali",
+                  "type": "internal",
+                  "page": "Mustafa Jassem Al-Shamali"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ali al-Omair"
+                }
+              ]
+            },
+            {
+              "text": "In November 2015, Al-Omair was replaced by Anas Khalid Al Saleh as acting oil minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anas Khalid Al Saleh"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The Changing Dynamics of Energy in the Middle East",
+          "url": "https://books.google.com/books?id=fqnlNP0h29MC&pg=PA261",
+          "accessdate": "30 December 2013",
+          "date": "1 October 2006",
+          "publisher": "Greenwood Publishing Group",
+          "isbn": "978-0-313-08364-8",
+          "page": "261",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Profile: Shaikh Ali Khalifa",
+          "url": "http://www.highbeam.com/doc/1G1-42091862.html",
+          "archive-url": "https://web.archive.org/web/20140610174250/http://www.highbeam.com/doc/1G1-42091862.html",
+          "url-status": "dead",
+          "archive-date": "10 June 2014",
+          "accessdate": "21 December 2013",
+          "work": "APS Review Downstream Trends",
+          "date": "20 May 1991}}{{Subscription required|via=HighBeam|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Marc Duvoisin",
+          "title": "Kuwaiti Oil Minister Downplays Iran's Naval Threat",
+          "url": "http://articles.philly.com/1987-06-23/news/26184645_1_naval-protection-tankers-kuwaiti-oil",
+          "accessdate": "10 September 2014",
+          "work": "Philly",
+          "date": "23 June 1987",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwait former oil minister dies – royal court",
+          "url": "http://newsinfo.inquirer.net/132401/kuwait-former-oil-minister-dies-%E2%80%93-royal-court",
+          "accessdate": "10 September 2014",
+          "work": "Inquirer",
+          "agency": "AFP",
+          "date": "22 January 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwait oil minister resigns in wake of explosion",
+          "url": "http://lubbockonline.com/stories/062700/bus_062700005.shtml",
+          "accessdate": "10 September 2014",
+          "work": "Lubbock Avalanche Journal",
+          "agency": "AP",
+          "date": "27 June 2000",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwait's new cabinet sworn in, oil minister replaced",
+          "url": "http://english.peopledaily.com.cn/90001/90777/90854/7373590.html",
+          "accessdate": "24 November 2013",
+          "work": "People's Daily Online",
+          "date": "9 May 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwaiti oil minister's resignation: What happened?",
+          "url": "http://www.aawsat.net/2013/05/article55303320",
+          "accessdate": "24 November 2013",
+          "newspaper": "Asharq Alawsat",
+          "date": "27 May 2013",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20131106113201/http://www.aawsat.net/2013/05/article55303320",
+          "archivedate": "6 November 2013",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Curriculum Vitae",
+          "url": "http://www.moo.gov.kw/Special-Pages/CV-Minister.aspx",
+          "work": "Kuwait Ministry of Oil",
+          "accessdate": "24 November 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Fiona MacDonald",
+          "title": "Kuwait PM Shuffles Cabinet, Appoints New Finance, Oil Ministers",
+          "url": "https://www.bloomberg.com/news/2014-01-06/kuwait-pm-shuffles-cabinet-appoints-new-finance-oil-ministers.html",
+          "accessdate": "10 September 2014",
+          "work": "Bloomberg",
+          "date": "6 January 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/article/us-kuwait-oil-idUSKBN0TI0CL20151129",
+          "title": "Kuwait names new acting oil minister; policy change not expected",
+          "work": "Reuters",
+          "date": "29 November 2015",
+          "accessdate": "8 March 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwaiti oil minister resigns",
+          "url": "https://news.google.com/newspapers?nid=1310&dat=20020211&id=bkxWAAAAIBAJ&sjid=9OsDAAAAIBAJ&pg=4228,2901021",
+          "accessdate": "10 September 2014",
+          "work": "Eugene Register-Guard",
+          "date": "11 February 2002",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Joseph Hilyard",
+          "title": "2008 International Petroleum Encyclopedia",
+          "url": "https://books.google.com/books?id=S_Upmb8NZkAC&pg=PA184",
+          "accessdate": "30 December 2013",
+          "date": "1 July 2008",
+          "publisher": "PennWell Books",
+          "isbn": "978-1-59370-164-2",
+          "page": "184",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Kuwait appoints new permanent oil minister",
+          "url": "http://www.pipelineme.com/news/regional-news/2009/12/kuwait-appoints-new-permanent-oil-minister/",
+          "accessdate": "24 November 2013",
+          "work": "Pipeline Magazine",
+          "date": "10 December 2009",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20131202223708/http://www.pipelineme.com/news/regional-news/2009/12/kuwait-appoints-new-permanent-oil-minister/",
+          "archivedate": "2 December 2013",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwait replaces oil minister with ex-KPC head",
+          "url": "http://www.worldoil.com/Kuwait_replaces_oil_minister_with_ex_KPC_head.html",
+          "accessdate": "24 November 2013",
+          "work": "World Oil",
+          "date": "14 February 2012",
+          "author": "Summer Said",
+          "location": "Kuwait City",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kuwait cabinet reshuffle brings seven new faces",
+          "url": "http://www.aawsat.net/2014/01/article55326744",
+          "accessdate": "10 September 2014",
+          "work": "Asharq Al Awsat",
+          "date": "7 January 2014",
+          "location": "London",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "October 2015",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "33em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
