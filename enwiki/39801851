@@ -1,0 +1,312 @@
+{
+  "title": "Ministry of Commerce and Industry (Kuwait)",
+  "pageID": 39801851,
+  "categories": [
+    "1963 establishments in Kuwait",
+    "Ministries established in 1963",
+    "Government ministries of Kuwait",
+    "Industry ministries",
+    "Economy of Kuwait"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Commerce and Industry is one of the governmental bodies of Kuwait and part of the cabinet.",
+              "links": [
+                {
+                  "text": "the governmental bodies",
+                  "type": "internal",
+                  "page": "Government of Kuwait"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kuwait"
+                },
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Kuwait"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Commerce and Industry"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "date",
+          "data": {
+            "year": "1963",
+            "month": "1",
+            "date": "28",
+            "df": "yes",
+            "template": "start date and age",
+            "text": "January 28, 1963"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "agency_name": {
+            "text": "Ministry of Commerce and Industry"
+          },
+          "nativename": {
+            "text": "وزارة التجارة"
+          },
+          "logo": {
+            "text": "Emblem of Kuwait.svg"
+          },
+          "logo_width": {
+            "text": "100px"
+          },
+          "logo_caption": {
+            "text": "Kuwait MOC uses the emblem of Kuwait as its logo"
+          },
+          "formed": {
+            "text": "January 28, 1963"
+          },
+          "jurisdiction": {
+            "text": "Kuwait",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuwait"
+              }
+            ]
+          },
+          "headquarters": {
+            "text": "Kuwait City",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuwait City"
+              }
+            ]
+          },
+          "minister1_name": {
+            "text": "Abdullah Issa Al-Salman"
+          },
+          "website": {
+            "text": "www.moci.gov.kw"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "June 2013",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry was established on 28 January 1963 under the name of the Ministry of Finance, Industry and Commerce."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "History of the Ministry",
+          "url": "http://www.moci.gov.kw/StaticShow.aspx?id=6",
+          "publisher": "Ministry of Commerce - Kuwait",
+          "accessdate": "28 June 2013",
+          "location": "Kuwait",
+          "language": "Arabic",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kuwait cabinet reshuffle brings seven new faces",
+          "url": "http://www.aawsat.net/2014/01/article55326744",
+          "accessdate": "10 September 2014",
+          "work": "Asharq Al Awsat",
+          "date": "7 January 2014",
+          "location": "London",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Organisational structure",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The ministry derives into following department:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Department of Consumer Protection"
+          },
+          {
+            "text": "Assistance Agency for Tourism Affairs"
+          },
+          {
+            "text": "Assistance Agency of the affairs of trade control"
+          },
+          {
+            "text": "Assistance Agency of Affairs of World Organisations and Intellectual Property Rights"
+          },
+          {
+            "text": "Assistance Agency for Corporate Affairs and Business Licenses"
+          },
+          {
+            "text": "Assistance Agency for Foreign Trade Affairs"
+          },
+          {
+            "text": "Technical Affairs and Trade Development"
+          },
+          {
+            "text": "Assistance Agency for planning and technical support"
+          },
+          {
+            "text": "Office of Foreign Capital Investment."
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Former ministers",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "div col end"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Khalifa Khalid Ghoneim (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Abdullah Al Jaber Al Sabah (Minister Commerce and Industry)"
+          },
+          {
+            "text": "Khalid Sulaiman Al Adsani (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Abdul Wahab Yusuf Al Nafisi (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Jassim Khaled Dawood Al Marzouq (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Jassem Mohammad Al Kharafi (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Faisal Abdul Razzaq Al Khalid (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Nasser Rawdhan (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Abdullah Al Jarallah (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Abdullah Rashed Al Hajri (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Hilal Mishari Mutairi (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Jassim Abdullah Al Mudaf, (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Hisham Al Otaibi (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Abdulwahab Al Wazzan (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Salah Abdul Redha Khurshid (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Abdullah Abdul Rahman Al Tawil (Minister of Commerce and Industry"
+          },
+          {
+            "text": "Falah Fahad Al Hajri. (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Ahmed Yacoub Baqer Al Abdullah (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Ahmad Rashed Al Haroun. (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Amani Bouresli (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Anas Khalid Al Saleh (Minister of Commerce and Industry; February 2012 - January 2014) February 2012 to January 2014",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anas Khalid Al Saleh"
+              }
+            ]
+          },
+          {
+            "text": "Abdulmohsen Al Madaj (Minister of Commerce and Industry)"
+          },
+          {
+            "text": "Yousef Al Ali Ph.D. (Minister of Commerce and Industry)"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "Kuwait announces new cabinet",
+          "url": "http://m.gulfnews.com/news/gulf/kuwait/kuwait-announces-new-cabinet-1.980728",
+          "accessdate": "12 October 2013",
+          "newspaper": "Gulf News",
+          "date": "14 February 2012",
+          "author": "Habib Toumi",
+          "location": "Manama",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
