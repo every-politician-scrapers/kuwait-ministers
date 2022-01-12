@@ -1,26 +1,35 @@
 @@,wdid,name,pid,position
----,Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,Q104382486,Minister of Defense
----,Q12219691,Sabah Al-Khalid Al-Sabah,Q110525652,Minister of Foreign Affairs
----,Q12219691,Sabah Al-Khalid Al-Sabah,Q110526533,Deputy Prime Minister of Kuwait
-+++,Q96202201,حمد جابر العلي الصباح,Q16257919,Ministry of Defense
-+++,Q96041531,محمد الفارس (سياسي),Q17069140,Ministry of Oil
-+++,Q96041531,محمد الفارس (سياسي),Q104176091,Ministry of Higher Education
-+++,Q87073852,شايع عبد الرحمن الشايع,,
-+++,Q87073852,شايع عبد الرحمن الشايع,Q104178419,Minister of Housing
-+++,Q85848781,Mubarak Al-Harris,,
-+++,Q79351786,رنا الفارس,Q22934979,Ministry of Transportation
-+++,Q79351786,رنا الفارس,Q101866096,Ministry of Public Works
-+++,Q54875312,عيسى الكندري,Q15835286,Kuwait Ministry of Awqaf and Islamic Affairs
-+++,Q47499713,Basil Hammoud Al-Hamad Al-Sabah,Q96679148,Ministry of Health
-+++,Q4665936,Abdullah Al-Roumi,Q55648354,Ministry of Justice (Kuwait)
+->,Q96202201,Hamad Jaber Al-Ali Al-Sabah,Q104382486->Q16257919,Minister of Defense->Ministry of Defense
+->,Q85848781,Mubarak Al-Harris,Q110529897->NULL,Minister of State For National Assembly Affairs->NULL
+->,Q47499713,Basil Hammoud Al-Hamad Al-Sabah,Q110526428->Q96679148,Minister of Health->Ministry of Health
+->,Q4665936,Abdullah Al-Roumi,Q110526408->Q55648354,Minister of Justice (Kuwait)->Ministry of Justice (Kuwait)
+->,Q106427761,Abdullah Issa Al-Salman,Q97734029->Q17068462,Minister of Trade and Industry->Ministry of Commerce and Industry
+->,Q104175576,Thamer Ali Sabah Al-Salem Al-Sabah,Q110526608->Q17064142,Minister of Interior->Ministry of Interior (Kuwait)
+->,Q104175575,Abdurrahman Baddah Al-Mutairi,Q110529903->Q22934927,Minister of State for Youth Affairs->وزارة الدولة لشئون الشباب
+---,Q96041531,Mohammad Abdullatif Al-Fares,Q108599663,Minister of oil
+---,Q87073852,Shaya Abdurrahman Ahmad Al-Shaya,Q110529873,Minister of State For Municipal Affairs
+---,Q79351786,Rana Abdullah Al-Fares,Q110526419,Minister of Public Works
+---,Q54875312,Essa Al-Kandari,Q110525626,Kuwait Minister of Awqaf and Islamic Affairs
+---,Q54875312,Essa Al-Kandari,Q109243768,Minister of Social Affairs
+---,Q12240740,Mohammad Abdullah Al-Mubarak Al-Sabah,Q110526641,Minister of the Amiri Diwan
+---,Q12179124,Ahmad Nasser al-Mohammed al-Sabah,Q110525652,Minister of Foreign Affairs
+---,Q106087794,Dr. Meshaan M. Al-Otaibi,Q109243768,Minister of Social Affairs
+---,Q106087794,Dr. Meshaan M. Al-Otaibi,Q110526402,Minister of Electricity and Water and Renewable Energy
+---,Q104175578,Khalifa Musaed Hamada,Q110525649,Minister of Finance (Kuwait)
+---,Q104175573,Ali Fahad Al-Mudhaf,Q110526438,Minister of Higher Education
+---,Q104175573,Ali Fahad Al-Mudhaf,Q110526390,Minister of Education
++++,Q96041531,Mohammad Abdullatif Al-Fares,Q104176091,Ministry of Higher Education
++++,Q96041531,Mohammad Abdullatif Al-Fares,Q17069140,Ministry of Oil
++++,Q87073852,Shaya Abdurrahman Ahmad Al-Shaya,,
++++,Q87073852,Shaya Abdurrahman Ahmad Al-Shaya,Q104178419,Minister of Housing
++++,Q79351786,Rana Abdullah Al-Fares,Q22934979,Ministry of Transportation
++++,Q79351786,Rana Abdullah Al-Fares,Q101866096,Ministry of Public Works
++++,Q54875312,Essa Al-Kandari,Q15835286,Kuwait Ministry of Awqaf and Islamic Affairs
 +++,Q12219691,Sabah Al-Khalid Al-Sabah,Q2035020,list of Prime Ministers of Kuwait
 +++,Q12179124,Ahmad Nasser al-Mohammed al-Sabah,,
 +++,Q12179124,Ahmad Nasser al-Mohammed al-Sabah,Q16257922,Ministry of Foreign Affairs
-+++,Q106427761,عبد الله السلمان (سياسي),Q17068462,Ministry of Commerce and Industry
-+++,Q106087794,Dr. Meshaan M. Al-Otaibi,Q104184823,وزارة الشؤون الاجتماعية (الكويت)
++++,Q106087794,Dr. Meshaan M. Al-Otaibi,Q60752885,Ministry Of Social Affairs And Labour
 +++,Q106087794,Dr. Meshaan M. Al-Otaibi,Q104178104,Ministry of Electricity and Water and Renewable Energy
-+++,Q104175578,خليفة حمادة,Q15640179,Ministry of Finance (Kuwait)
-+++,Q104175578,خليفة حمادة,,
-+++,Q104175576,ثامر علي الصباح,Q17064142,Ministry of Interior (Kuwait)
-+++,Q104175575,عبد الرحمن بداح المطيري,Q22934927,وزارة الدولة لشئون الشباب
-+++,Q104175573,علي المضف,Q104176127,Ministry of Education
++++,Q104175578,Khalifa Musaed Hamada,,
++++,Q104175578,Khalifa Musaed Hamada,Q15640179,Ministry of Finance (Kuwait)
++++,Q104175573,Ali Fahad Al-Mudhaf,Q104176127,Ministry of Education
