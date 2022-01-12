@@ -1,5 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q104175951,37th Cabinet of Kuwait,,,,,,,,,,,,,,,,
 ,Q12239052,Q12239052,,,,,,,,,,,,,,,,
 ,Q12239053,Q12239053,,,,,,,,,,,,,,,,
 ,Q12239054,Q12239054,,,,,,,,,,,,,,,,
@@ -36,4 +35,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q60573382,Q60573382,2016-12-10,11,,,2017-10-30,11,,,Q20422258,Q20422258,Q60573383,35th Cabinet of Kuwait,,,,
 ,Q60573383,35th Cabinet of Kuwait,2017-12-11,11,,,2019-11-14,11,,,Q60573382,Q60573382,Q85738260,36th Cabinet of Kuwait,,,,
 ,Q85738260,36th Cabinet of Kuwait,2019-12-17,11,,,,,,,Q60573383,35th Cabinet of Kuwait,,,,,,
-,Q110300636,39th Cabinet of Kuwait,2021-12-28,11,,,,,,,,,,,,,,
+,Q104175951,37th Cabinet of Kuwait,2020-12-14,11,,,2021-01-18,11,,,,,Q105986021,38th Cabinet of Kuwait,,,,
+,Q105986021,38th Cabinet of Kuwait,2021-03-02,11,,,2021-11-14,11,,,Q104175951,37th Cabinet of Kuwait,Q110300636,39th Cabinet of Kuwait,,,,
+,Q110300636,39th Cabinet of Kuwait,2021-12-28,11,,,,,,,Q105986021,38th Cabinet of Kuwait,,,,,,
