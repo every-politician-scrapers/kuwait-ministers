@@ -1,0 +1,200 @@
+{
+  "title": "Nawaf Al-Ahmad Al-Jaber Al-Sabah",
+  "pageID": 3994850,
+  "categories": [
+    "1937 births",
+    "Living people",
+    "House of Al-Sabah",
+    "Government ministers of Kuwait",
+    "Grand Cross of the Order of Civil Merit",
+    "Grand Crosses of the Order of the Liberator General San Martin",
+    "Defence ministers of Kuwait",
+    "Rulers of Kuwait",
+    "Muslim monarchs",
+    "Kuwaiti Muslims"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nawaf Al-Ahmad Al-Jaber Al-Sabah (نواف الأحمد الجابر الصباح Nawwāf al-ʾAḥmad al-Jābir aṣ-Ṣabāḥ; born 25 June 1937) is the Emir of Kuwait and the Commander of the Kuwait Military Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emir of Kuwait"
+                },
+                {
+                  "type": "internal",
+                  "page": "Commander"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kuwait Military Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nawaf Al-Ahmad Al-Jaber Al-Sabah"
+                ],
+                "italic": [
+                  "Nawwāf al-ʾAḥmad al-Jābir aṣ-Ṣabāḥ"
+                ]
+              }
+            },
+            {
+              "text": "On 30 September 2020, he succeeded to the throne following the death of his half-brother Sabah Al-Ahmad Al-Jaber Al-Sabah.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sabah Al-Ahmad Al-Jaber Al-Sabah"
+                }
+              ]
+            },
+            {
+              "text": "Nawaf had been nominated as Crown Prince on 7 February 2006.",
+              "links": [
+                {
+                  "text": "Crown Prince",
+                  "type": "internal",
+                  "page": "Crown prince"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Emir of Kuwait",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1937",
+          "month": "06",
+          "day": "25",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "succession": {
+            "text": "Emir of Kuwait",
+            "links": [
+              {
+                "text": "Emir of Kuwait",
+                "type": "internal",
+                "page": "List of emirs of Kuwait"
+              }
+            ]
+          },
+          "reign": {
+            "text": "30 September 2020 – present"
+          },
+          "regent": {
+            "text": "Sabah Al-Khalid Al-Sabah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sabah Al-Khalid Al-Sabah"
+              }
+            ]
+          },
+          "reg-type": {
+            "text": "Prime Minister",
+            "links": [
+              {
+                "text": "Prime Minister",
+                "type": "internal",
+                "page": "Prime Minister of Kuwait"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sabah Al-Ahmad Al-Jaber",
+            "links": [
+              {
+                "text": "Sabah Al-Ahmad Al-Jaber",
+                "type": "internal",
+                "page": "Sabah Al-Ahmad Al-Jaber Al-Sabah"
+              }
+            ]
+          },
+          "suc-type": {
+            "text": "Heir apparent"
+          },
+          "successor": {
+            "text": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+              }
+            ]
+          },
+          "native_lang1_name1": {
+            "text": "نواف الأحمد الجابر الصباح"
+          },
+          "native_lang1": {
+            "text": "Arabic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arabic"
+              }
+            ]
+          },
+          "image": {
+            "text": "Emir Nawaf Al-Ahmad Al-Jaber Al-Sabah.jpg"
+          },
+          "house": {
+            "text": "House of Sabah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "House of Sabah"
+              }
+            ]
+          },
+          "father": {
+            "text": "Ahmad Al-Jaber Al-Sabah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmad Al-Jaber Al-Sabah"
+              }
+            ]
+          },
+          "mother": {
+            "text": "Yamama"
+          },
+          "birth_date": {
+            "text": "June 25, 1937"
+          },
+          "birth_place": {
+            "text": "Kuwait City, Kuwait",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuwait City"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Sharifa Sulaiman Al-Ghanim"
+          },
+          "issue": {
+            "text": "Ahmad Faisal Abdullah Salem Sheikha"
+          }
+        }
+      ]
+    }
+  ]
+}
