@@ -1,1 +1,19 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q104175573,Ali Fahad Al-Mudhaf,Ali Fahad Al-Mudhaf,,,Q110526438,Minister of Higher Education,2020-12-14,Q104175573-5E314C51-6DF9-4CF7-BF59-449518B743BE
+Q104175573,Ali Fahad Al-Mudhaf,Ali Fahad Al-Mudhaf,,,Q110526390,Minister of Education,2020-12-14,Q104175573-B7730B8E-2F3F-42F9-A9C2-E8B664E45D57
+Q106098187,Mubarak Zaid Al-Mutairi,Mubarak Zaid Al-Mutairi,,,Q109243768,Minister of Social Affairs,2021-12-28,Q106098187-F4B6EB63-629B-4D5A-9F4F-21537F905D07
+Q109298040,Hamad Ahmad Roh El Deen,Hamad Ahmad Roh El Deen,,,Q110526654,Minister of Information,2021-12-28,Q109298040-89462E44-CBFD-485A-AEBB-F6414A1D8BDB
+Q110289308,Fahad Mutlaq Al-Shurai'an,Fahad Mutlaq Al-Shurai'an,,,Q97734029,Minister of Trade and Industry,2021-12-28,Q110289308-0FAD130D-E7FF-4A58-A02B-340045670BDE
+Q110289338,,,,,Q110526419,Minister of Public Works,2021-12-28,Q110289338-C4EDD4B3-670D-4B0D-945D-992397F99D3E
+Q110289338,,,,,Q110529903,Minister of State for Youth Affairs,2021-12-28,Q110289338-FF4EA4A8-A08A-44F3-BEEA-76A9577D4274
+Q12179124,Ahmad Nasser al-Mohammed al-Sabah,Ahmad Nasser al-Mohammed al-Sabah,,,Q110525652,Minister of Foreign Affairs,2019-12-17,Q12179124-C88A38A9-7D5D-47A0-89E7-2A62A2E5443C
+Q12219691,Sabah Al-Khalid Al-Sabah,Sabah Al-Khalid Al-Sabah,,,Q30100649,Prime Minister of Kuwait,2019-11-19,Q12219691-5A814516-D156-4DB1-843A-6981666BF537
+Q12240740,Mohammad Abdullah Al-Mubarak Al-Sabah,Mohammad Abdullah Al-Mubarak Al-Sabah,,,Q110526641,Minister of the Amiri Diwan,2021-08-11,Q12240740-470244E9-61F8-43D0-A959-B3BDF30F43BA
+Q37996526,Abdulwahab Al-Rushaid,Abdulwahab Al-Rushaid,,,Q110525649,Minister of Finance (Kuwait),2021-12-28,Q37996526-0AAB5320-2D96-42AE-9E93-DF9EB5A7DB57
+Q54875312,Essa Al-Kandari,Essa Al-Kandari,,,Q110525626,Kuwait Minister of Awqaf and Islamic Affairs,2021-03-02,Q54875312-FA5F7F52-643E-4D65-B16F-F5191D6DED38
+Q79180644,Ahmad Mansour Al-Ahmad Al-Sabah,Ahmad Mansour Al-Ahmad Al-Sabah,,,Q110526608,Minister of Interior,2021-12-28,Q79180644-ba814eb7-42a2-88f2-d46c-83483f89bc2c
+Q79351786,Rana Abdullah Al-Fares,Rana Abdullah Al-Fares,,,Q110529875,Minister of State For Communications and Information Technology Affairs,2021-12-28,Q79351786-226B8EAE-058A-4013-8F0F-A43689891A1B
+Q79351786,Rana Abdullah Al-Fares,Rana Abdullah Al-Fares,,,Q110529873,Minister of State For Municipal Affairs,2021-12-28,Q79351786-C66F965E-857A-4447-BEC0-E4F66ADD95B0
+Q96041531,Mohammad Abdullatif Al-Fares,Mohammad Abdullatif Al-Fares,,,Q110526402,Minister of Electricity and Water and Renewable Energy,2021-12-28,Q96041531-566F762F-1F22-4E9D-8243-8277E9FC70B5
+Q96041531,Mohammad Abdullatif Al-Fares,Mohammad Abdullatif Al-Fares,,,Q108599663,Minister of oil,2020-12-14,Q96041531-ae747a27-4c32-e492-618c-6fd0e697f179
+Q96202201,Hamad Jaber Al-Ali Al-Sabah,Hamad Jaber Al-Ali Al-Sabah,,,Q104382486,Minister of Defense,2020-12-14,Q96202201-FFCFF537-2019-4661-8715-DE8F7D1277E5
