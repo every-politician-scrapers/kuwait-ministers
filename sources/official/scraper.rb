@@ -7,17 +7,21 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      # Rana Abd Allah Abd Al-Rahman Al-Faris has an unclosed <h4>
+      Name.new(
+        full: noko.css('h4').children.first.text.tidy,
+        prefixes: %w[His Her Highness Excellency Sheikh Advisor Mr. Dr.],
+      ).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('h5').map(&:text).map(&:tidy).reject { |txt| txt[/^Ministry/] }.flat_map { |posn| posn.split(/ and (?=Minister)/i) }.map(&:tidy)
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.ms-rtestate-field .BoxContainer')
     end
   end
 end
