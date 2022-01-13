@@ -1,0 +1,437 @@
+{
+  "title": "Central Bank of Kuwait",
+  "pageID": 2954959,
+  "categories": [
+    "Banks established in 1969",
+    "Government agencies established in 1969",
+    "Banks of Kuwait",
+    "Buildings and structures in Kuwait City",
+    "Central banks",
+    "Companies based in Kuwait City",
+    "Kuwaiti companies established in 1969",
+    "List of Institutions using TCS BaNCS"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Central Bank of Kuwait (CBK ) is the central bank of Kuwait.",
+              "links": [
+                {
+                  "text": "central bank",
+                  "type": "internal",
+                  "page": "central bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kuwait"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Central Bank of Kuwait",
+                  "CBK"
+                ]
+              }
+            },
+            {
+              "text": "It offers a strict currency system on behalf of the state."
+            },
+            {
+              "text": "The bank regulates Kuwaiti stock market along with the Kuwait Stock Exchange, the Ministry of Commerce and Industry and the Ministry of Finance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuwait Stock Exchange"
+                },
+                {
+                  "text": "Ministry of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Kuwait)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Central Bank of Kuwait",
+          "template": "short description"
+        },
+        {
+          "date": "May 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "display": "inline,title",
+          "template": "coord",
+          "props": {
+            "type": "landmark_region:KW"
+          },
+          "lat": 29.3774,
+          "lon": 47.9714
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1968",
+            "month": "06",
+            "date": "30",
+            "df": "yes",
+            "template": "start date and age",
+            "text": "June 30, 1968"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "bank_name": {
+            "text": "Central Bank of Kuwait"
+          },
+          "bank_name_in_local": {
+            "text": "بنك الكويت المركزي"
+          },
+          "image_1": {
+            "text": "Central Bank of Kuwait Logo.png"
+          },
+          "image_width_1": {
+            "text": "200px"
+          },
+          "ownership": {
+            "text": "100% state ownership",
+            "links": [
+              {
+                "text": "state ownership",
+                "type": "internal",
+                "page": "state ownership"
+              }
+            ]
+          },
+          "headquarters": {
+            "text": "Kuwait City",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuwait City"
+              }
+            ]
+          },
+          "coordinates": {
+            "text": "29.3774°N, 47.9714°W"
+          },
+          "established": {
+            "text": "June 30, 1968"
+          },
+          "president": {
+            "text": "Mohammad Al-Hashel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Al-Hashel"
+              }
+            ]
+          },
+          "leader_title": {
+            "text": "Governor"
+          },
+          "bank_of": {
+            "text": "State of Kuwait",
+            "links": [
+              {
+                "type": "internal",
+                "page": "State of Kuwait"
+              }
+            ]
+          },
+          "currency": {
+            "text": "Kuwaiti dinar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuwaiti dinar"
+              }
+            ]
+          },
+          "currency_iso": {
+            "text": "KWD"
+          },
+          "reserves": {
+            "text": "25 660 million USD"
+          },
+          "website": {
+            "text": "www.cbk.gov.kw",
+            "links": [
+              {
+                "text": "www.cbk.gov.kw",
+                "type": "external",
+                "site": "http://www.cbk.gov.kw/"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "first2": "David",
+          "last2": "Chappell",
+          "title": "Modelling the day-of-the-week effect in the Kuwait Stock Exchange: a nonlinear GARCH representation",
+          "journal": "Applied Financial Economics",
+          "year": "2001",
+          "volume": "11",
+          "issue": "4",
+          "pages": "353",
+          "first1": "Nabeel",
+          "last1": "Al Loughani",
+          "doi": "10.1080/096031001300313910",
+          "s2cid": "155028752",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last1": "Karami",
+          "first1": "Fawaz",
+          "title": "CBK: local banks offered USD 8.9bln-worth credit facilities to businesses in 100 days",
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2901127&language=en",
+          "website": "Kuwait News Agency",
+          "accessdate": "19 September 2020",
+          "date": "22 June 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Overview",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It was established on 30 June 1968."
+            },
+            {
+              "text": "The bank launched Financial Intelligence Unit in 2003."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Salem Abdulaziz Al Sabah served as the governor of the bank until February 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salem Abdulaziz Al Sabah"
+                }
+              ]
+            },
+            {
+              "text": "Dr. Mohammad Al Hashel succeeded Sabah as governor in April 2012 and Yousef Al Obaid as deputy governor in May 2012."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Index",
+          "url": "http://cbk.gov.kw/WWW/index.html",
+          "publisher": "Central Bank of Kuwait",
+          "accessdate": "30 September 2014",
+          "archive-url": "https://web.archive.org/web/20131031062131/http://www.cbk.gov.kw/WWW/index.html",
+          "archive-date": "31 October 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Synopsis of Kuwait's Actions to Combat Terrorist Finance",
+          "url": "https://cablegatesearch.wikileaks.org/cable.php?id=05KUWAIT806",
+          "work": "Wikileaks",
+          "accessdate": "10 September 2014",
+          "date": "23 February 2005",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kuwait to take measures to cut spending - cenbank",
+          "url": "http://www.arabianbusiness.com/kuwait-take-measures-cut-spending-cenbank-474870.html",
+          "agency": "Reuters",
+          "work": "Arabian Business",
+          "accessdate": "11 October 2013",
+          "date": "1 October 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "About CBK: Organization",
+          "url": "http://www.cbk.gov.kw/www/organization.html",
+          "publisher": "Central Bank of Kuwait",
+          "accessdate": "8 February 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kuwait's central bank boss Sheikh Salem Abdulaziz Al Sabah quits after criticising state",
+          "url": "https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/9080116/Kuwaits-central-bank-boss-Sheikh-Salem-Abdulaziz-Al-Sabah-quits-after-criticising-state.html",
+          "accessdate": "11 October 2013",
+          "newspaper": "The Telegraph",
+          "date": "13 February 2012",
+          "first": "Louise",
+          "last": "Armitstead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Governors",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Governors of the Central Bank of Kuwait."
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Hamza A. Hussein (12 September 1973 – 11 September 1983)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hamza A. Hussein"
+              }
+            ]
+          },
+          {
+            "text": "Abdulwahab Al-Tammar (1 November 1983 – 30 September 1986)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdulwahab Al-Tammar"
+              }
+            ]
+          },
+          {
+            "text": "Salem Abdulaziz Al Sabah (1 October 1986 – 11 February 2012; resigned)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salem Abdulaziz Al Sabah"
+              }
+            ]
+          },
+          {
+            "text": "Mohammad Al-Hashel (1 April 2012 – present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Al-Hashel"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.cbk.gov.kw/en/about-cbk/history/former-governors",
+          "title": "Former Governors",
+          "website": "cbk.gov.kw",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Banks"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of tallest buildings in Kuwait",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of tallest buildings in Kuwait"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://www.cbk.gov.kw/"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "central banks"
+        },
+        {
+          "template": "kuwait city"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "asia-bank-stub"
+        },
+        {
+          "template": "kuwait-stub"
+        }
+      ]
+    }
+  ]
+}
