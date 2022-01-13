@@ -6,7 +6,9 @@
 +++,Khalid Al-Ghunaim,,1971,1981
 +++,Mohammad Yousef Al-Adasani,,1981,1985
 +++,Ahmed Al-Sadoun,Q4695735,1985,1999
-+++,Jassem Al-Kharafi,Q6164155,1999,2012
+---,Ahmed Al-Sadoun,Q4695735,1985-01-01,1999-01-01
+->,Jassem Al-Kharafi,Q6164155,1999-01-01->1999,2012-01-01->2012
 +++,Ahmed Al-Sadoun,Q4695735,2012-02,2012-06
-+++,Ali Al-Rashid,Q4724623,2012-12,2013-08
+---,Ahmed Al-Sadoun,Q4695735,2012-02-01,2012-06-01
+->,Ali Al-Rashid,Q4724623,2012-12-01->2012-12,2013-08-01->2013-08
 ->,Marzouq Al-Ghanim,Q6781875,2013-08-06->2013-08,
