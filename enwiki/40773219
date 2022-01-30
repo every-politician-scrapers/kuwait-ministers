@@ -680,7 +680,14 @@
               "number": 15
             },
             "Name": {
-              "text": "Hamad Jaber Al Al Sabah"
+              "text": "Hamad Jaber Al-Ali Al-Salim Al Sabah",
+              "links": [
+                {
+                  "text": "Salim",
+                  "type": "internal",
+                  "page": "Salim Al-Mubarak Al-Sabah"
+                }
+              ]
             },
             "Portrait": {
               "text": ""
