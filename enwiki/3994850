@@ -80,6 +80,7 @@
           "year": "1937",
           "month": "06",
           "day": "25",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -184,6 +185,11 @@
               {
                 "type": "internal",
                 "page": "Kuwait City"
+              },
+              {
+                "text": "Kuwait",
+                "type": "internal",
+                "page": "Sheikhdom of Kuwait"
               }
             ]
           },
