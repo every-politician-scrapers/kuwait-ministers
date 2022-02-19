@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "Its minister in charge is a member of the Cabinet of Kuwait and the current minister of interior is Thamer Ali Sabah Al-Salem Al-Sabah.",
+              "text": "Its minister in charge is a member of the Cabinet of Kuwait and the current minister of interior is Mohammed Al-Fares.",
               "links": [
                 {
                   "type": "internal",
@@ -42,7 +42,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Thamer Ali Sabah Al-Salem Al-Sabah"
+                  "page": "Mohammed Al-Fares"
                 }
               ]
             }
@@ -125,11 +125,11 @@
             ]
           },
           "minister1_name": {
-            "text": "Thamer Ali Sabah Al-Salem Al-Sabah",
+            "text": "Mohammed Al-Fares",
             "links": [
               {
                 "type": "internal",
-                "page": "Thamer Ali Sabah Al-Salem Al-Sabah"
+                "page": "Mohammed Al-Fares"
               }
             ]
           },
@@ -159,11 +159,11 @@
       ],
       "references": [
         {
-          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2945562&language=en",
-          "title": "Sheikh Sabah Al-Khaled presents cabinet line-up to Kuwait Amir",
-          "date": "14 December 2020",
-          "work": "Kuwait News Agency",
-          "accessdate": "14 January 2021",
+          "url": "https://www.reuters.com/world/middle-east/kuwait-emiri-decree-accepts-resignations-defence-interior-ministers-tweet-2022-02-17/",
+          "title": "Kuwait's emir accepts resignations of defence, interior ministers",
+          "date": "17 February 2022",
+          "work": "Reuters",
+          "accessdate": "17 February 2022",
           "template": "citation",
           "type": "news"
         }
@@ -1426,13 +1426,96 @@
               "text": "14 December 2020"
             },
             "interior tenure until": {
-              "text": "Present"
+              "text": "????"
+            },
+            "note": {
+              "text": ""
+            }
+          },
+          {
+            "#": {
+              "text": "15?"
+            },
+            "name": {
+              "text": "Ahmed Mansour Al-Ahmed Al-Sabah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Mansour Al-Ahmed Al-Sabah"
+                }
+              ]
+            },
+            "title": {
+              "text": "Minister of Interior"
+            },
+            "interior tenure from": {
+              "text": "????"
+            },
+            "interior tenure until": {
+              "text": "17 February 2022"
+            },
+            "note": {
+              "text": ""
+            }
+          },
+          {
+            "#": {
+              "text": "16?"
+            },
+            "name": {
+              "text": "Mohammed Al-Fares",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohammed Al-Fares"
+                }
+              ]
+            },
+            "title": {
+              "text": "Oil Minister and caretaker Minister of Interior"
+            },
+            "interior tenure from": {
+              "text": "17 February 2022"
+            },
+            "interior tenure until": {
+              "text": "Present",
+              "formatting": {
+                "italic": [
+                  "Present"
+                ]
+              }
             },
             "note": {
               "text": ""
             }
           }
         ]
+      ],
+      "templates": [
+        {
+          "date": "February 2022",
+          "template": "what"
+        },
+        {
+          "date": "February 2022",
+          "template": "how"
+        },
+        {
+          "date": "February 2022",
+          "template": "who"
+        },
+        {
+          "date": "February 2022",
+          "template": "cn"
+        },
+        {
+          "date": "February 2022",
+          "template": "cn"
+        },
+        {
+          "date": "February 2022",
+          "template": "cn"
+        }
       ],
       "references": [
         {
@@ -1465,6 +1548,15 @@
           "accessdate": "14 September 2013",
           "work": "Naharnet",
           "date": "4 August 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2945562&language=en",
+          "title": "Sheikh Sabah Al-Khaled presents cabinet line-up to Kuwait Amir",
+          "date": "14 December 2020",
+          "work": "Kuwait News Agency",
+          "accessdate": "14 January 2021",
           "template": "citation",
           "type": "news"
         }
