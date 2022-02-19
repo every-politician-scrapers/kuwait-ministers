@@ -696,7 +696,35 @@
               "text": "Deputy Prime Minister and Minister of Defence"
             },
             "Tenure": {
-              "text": "2020–Present",
+              "text": "2020–2022"
+            },
+            "Note": {
+              "text": ""
+            }
+          },
+          {
+            "#": {
+              "text": "16",
+              "number": 16
+            },
+            "Name": {
+              "text": "Nasser Al-Mohammed Ahmad Al-Jaber Al-Sabah",
+              "links": [
+                {
+                  "text": "Nasser Al-Mohammed Ahmad Al-Jaber Al-Sabah",
+                  "type": "internal",
+                  "page": "Nasser Al-Mohammed Al-Sabah"
+                }
+              ]
+            },
+            "Portrait": {
+              "text": ""
+            },
+            "Title": {
+              "text": "Caretaker Minister of Defence"
+            },
+            "Tenure": {
+              "text": "2022–Present",
               "formatting": {
                 "italic": [
                   "Present"

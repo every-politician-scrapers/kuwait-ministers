@@ -64,6 +64,16 @@
             },
             {
               "text": "On 28 December 2021, the new cabinet line up was announced after the Amir approved in an Amiri order."
+            },
+            {
+              "text": "On 17 February 2022, Amir of Kuwait accepted the resignations of the Minister of Defense & Minister of Interior.",
+              "links": [
+                {
+                  "text": "Amir",
+                  "type": "internal",
+                  "page": "Emir of Kuwait"
+                }
+              ]
             }
           ]
         }
@@ -100,33 +110,6 @@
           },
           {
             "Incumbent": {
-              "text": "Hamad Jaber Al-Ali Al-Sabah",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Hamad Jaber Al-Ali Al-Sabah"
-                }
-              ]
-            },
-            "Office": {
-              "text": "Deputy Prime Minister and Minister of Defense",
-              "links": [
-                {
-                  "text": "Minister of Defense",
-                  "type": "internal",
-                  "page": "Ministry of Defense (Kuwait)"
-                }
-              ]
-            },
-            "Website": {
-              "text": "https://www.mod.gov.kw/"
-            },
-            "Since": {
-              "text": "28 December 2021 – present"
-            }
-          },
-          {
-            "Incumbent": {
               "text": "Dr. Mohammad Abdullatif Al-Fares",
               "links": [
                 {
@@ -148,11 +131,12 @@
           },
           {
             "Incumbent": {
-              "text": "Ahmad Mansour Al-Ahmad Al-Sabah",
+              "text": "Dr. Mohammad Abdullatif Al-Fares(Acting)",
               "links": [
                 {
+                  "text": "Dr. Mohammad Abdullatif Al-Fares",
                   "type": "internal",
-                  "page": "Ahmad Mansour Al-Ahmad Al-Sabah"
+                  "page": "Mohammad Abdullatif Al-Fares"
                 }
               ]
             },
@@ -170,7 +154,7 @@
               "text": "https://www.moi.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "17 February 2022 – present"
             }
           },
           {
@@ -253,6 +237,34 @@
             },
             "Since": {
               "text": "28 December 2021 – present"
+            }
+          },
+          {
+            "Incumbent": {
+              "text": "Dr. Ahmad Nasser Al-Mohammad Al-Sabah (Acting)",
+              "links": [
+                {
+                  "text": "Dr. Ahmad Nasser Al-Mohammad Al-Sabah",
+                  "type": "internal",
+                  "page": "Ahmad Nasser Al Mohammad Al-Sabah"
+                }
+              ]
+            },
+            "Office": {
+              "text": "Minister of Defense",
+              "links": [
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Ministry of Defense (Kuwait)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "https://www.mod.gov.kw/"
+            },
+            "Since": {
+              "text": "17 February 2022 – present"
             }
           },
           {
@@ -663,6 +675,15 @@
           "date": "28 December 2021",
           "work": "Kuwait News Agency",
           "access-date": "28 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3026272&language=en",
+          "title": "Amiri Decree issued accepting resignations of Defense, Interior ministers",
+          "date": "17 February 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "17 February 2022",
           "template": "citation",
           "type": "news"
         }
