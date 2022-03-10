@@ -1,11 +1,9 @@
 {
-  "title": "39th Cabinet of Kuwait",
-  "pageID": 69620869,
+  "title": "Cabinet of Kuwait",
+  "pageID": 38534945,
   "categories": [
     "National cabinets",
-    "Government of Kuwait",
-    "Current governments",
-    "Cabinets established in 2021"
+    "Government of Kuwait"
   ],
   "sections": [
     {
@@ -17,10 +15,6 @@
             {
               "text": "The Cabinet of Kuwait is the chief executive body of the State of Kuwait.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Cabinet of Kuwait"
-                },
                 {
                   "text": "executive",
                   "type": "internal",
@@ -80,6 +74,9 @@
                   "page": "Emir of Kuwait"
                 }
               ]
+            },
+            {
+              "text": "On 9 March 2022, an Amiri Decree has been issued appointing the interior minister and defense minister."
             }
           ]
         }
@@ -116,16 +113,11 @@
           },
           {
             "Incumbent": {
-              "text": "Hamad Jaber Al-Ali Al-Sabah Dr. Ahmad Nasser Al-Mohammad Al-Sabah (Acting)",
+              "text": "Talal Khaled Al-Ahmad Al-Sabah",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Hamad Jaber Al-Ali Al-Sabah"
-                },
-                {
-                  "text": "Dr. Ahmad Nasser Al-Mohammad Al-Sabah",
-                  "type": "internal",
-                  "page": "Ahmad Nasser Al Mohammad Al-Sabah"
+                  "page": "Talal Khaled Al-Ahmad Al-Sabah"
                 }
               ]
             },
@@ -143,7 +135,7 @@
               "text": "https://www.mod.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – 16 February 2022 17 February 2022 – present"
+              "text": "9 March 2022 – present"
             }
           },
           {
@@ -169,16 +161,11 @@
           },
           {
             "Incumbent": {
-              "text": "Ahmad Mansour Al-Ahmad Al-Sabah Dr. Mohammad Abdullatif Al-Fares (Acting)",
+              "text": "Ahmad Nawaf Al-Ahmad Al-Sabah",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Ahmad Mansour Al-Ahmad Al-Sabah"
-                },
-                {
-                  "text": "Dr. Mohammad Abdullatif Al-Fares",
-                  "type": "internal",
-                  "page": "Mohammad Abdullatif Al-Fares"
+                  "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
                 }
               ]
             },
@@ -196,7 +183,7 @@
               "text": "https://www.moi.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – 16 February 2022 17 February 2022 – present"
+              "text": "9 March 2022 – present"
             }
           },
           {
@@ -464,11 +451,11 @@
           },
           {
             "Incumbent": {
-              "text": "Mubarak Zaid Al-Mutairi",
+              "text": "Mubarak Zaid Al-Arou",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Mubarak Zaid Al-Mutairi"
+                  "page": "Mubarak Zaid Al-Arou"
                 }
               ]
             },
@@ -547,11 +534,11 @@
           },
           {
             "Incumbent": {
-              "text": "Mubarak Zaid Al-Mutairi",
+              "text": "Mubarak Zaid Al-Arou",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Mubarak Zaid Al-Mutairi"
+                  "page": "Mubarak Zaid Al-Arou"
                 }
               ]
             },
@@ -700,6 +687,15 @@
           "access-date": "17 February 2022",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3028963&language=en",
+          "title": "Amiri Decree for appointing new interior, defense ministers",
+          "date": "9 March 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "9 March 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -713,15 +709,6 @@
       ],
       "lists": [
         [
-          {
-            "text": "Cabinet of Kuwait",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Kuwait"
-              }
-            ]
-          },
           {
             "text": "35th Cabinet of Kuwait",
             "links": [

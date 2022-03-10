@@ -44,7 +44,13 @@
               ]
             },
             {
-              "text": "The current minister of defence is Hamad Jaber Al Sabah."
+              "text": "The current minister of defence is Talal Khaled Al-Ahmad Al-Sabah.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Talal Khaled Al-Ahmad Al-Sabah"
+                }
+              ]
             }
           ]
         }
@@ -124,7 +130,13 @@
             ]
           },
           "minister1_name": {
-            "text": "Hamad Jaber Al Sabah"
+            "text": "Talal Khaled Al-Ahmad Al-Sabah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Talal Khaled Al-Ahmad Al-Sabah"
+              }
+            ]
           },
           "child1_agency": {
             "text": "Office of the Minister of Defence\n*Military Office of Chief of General Staff of Kuwait Armed Forces\n*Office of the Assistant Minister \n**Offices of the Undersecretaries of the Assistant Minister",
@@ -155,11 +167,13 @@
       ],
       "references": [
         {
-          "url": "https://www.tacticalreport.com/kuwait-sheikh-hamad-al-jaber-new-defense-minister/",
-          "title": "Kuwait: Sheikh Hamad Al-Jaber, new Defense Minister",
-          "date": "17 December 2020",
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3028963&language=en",
+          "title": "Amiri Decree for appointing new interior, defense ministers",
+          "date": "9 March 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "9 March 2022",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         }
       ]
     },
@@ -696,7 +710,7 @@
               "text": "Deputy Prime Minister and Minister of Defence"
             },
             "Tenure": {
-              "text": "2020–2022"
+              "text": ""
             },
             "Note": {
               "text": ""
@@ -708,12 +722,12 @@
               "number": 16
             },
             "Name": {
-              "text": "Nasser Al-Mohammed Ahmad Al-Jaber Al-Sabah",
+              "text": "Dr. Ahmad Nasser Al-Mohammad Al-Sabah",
               "links": [
                 {
-                  "text": "Nasser Al-Mohammed Ahmad Al-Jaber Al-Sabah",
+                  "text": "Dr. Ahmad Nasser Al-Mohammad Al-Sabah",
                   "type": "internal",
-                  "page": "Nasser Al-Mohammed Al-Sabah"
+                  "page": "Ahmad Nasser Al Mohammad Al-Sabah"
                 }
               ]
             },
@@ -721,15 +735,37 @@
               "text": ""
             },
             "Title": {
-              "text": "Caretaker Minister of Defence"
+              "text": "Minister of Defence (Acting)"
             },
             "Tenure": {
-              "text": "2022–Present",
-              "formatting": {
-                "italic": [
-                  "Present"
-                ]
-              }
+              "text": ""
+            },
+            "Note": {
+              "text": ""
+            }
+          },
+          {
+            "#": {
+              "text": "17",
+              "number": 17
+            },
+            "Name": {
+              "text": "Talal Khaled Al-Ahmad Al-Sabah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Talal Khaled Al-Ahmad Al-Sabah"
+                }
+              ]
+            },
+            "Portrait": {
+              "text": ""
+            },
+            "Title": {
+              "text": "Deputy Prime Minister and Minister of Defence"
+            },
+            "Tenure": {
+              "text": ""
             },
             "Note": {
               "text": ""
@@ -821,6 +857,24 @@
             "2019–2020"
           ],
           "template": "center"
+        },
+        {
+          "list": [
+            "2020–2022"
+          ],
+          "template": "center"
+        },
+        {
+          "list": [
+            "2022"
+          ],
+          "template": "center"
+        },
+        {
+          "list": [
+            "2022–Present"
+          ],
+          "template": "center"
         }
       ],
       "references": [
@@ -883,6 +937,13 @@
           "type": "news"
         },
         {
+          "url": "https://www.tacticalreport.com/kuwait-sheikh-hamad-al-jaber-new-defense-minister/",
+          "title": "Kuwait: Sheikh Hamad Al-Jaber, new Defense Minister",
+          "date": "17 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "4 August 2013 - Decree number 212 for year 2013 of the formation of the Cabinet",
           "url": "http://www.pm.gov.kw/en/government/decreeCabinetFormation.jsp#04_August_2013_-_Decree_number_212_for_year_2013_of_the_formation_of_the_Cabinet",
           "archive-url": "https://web.archive.org/web/20120116082539/http://www.pm.gov.kw/en/government/decreeCabinetFormation.jsp#04_August_2013_-_Decree_number_212_for_year_2013_of_the_formation_of_the_Cabinet",
@@ -892,6 +953,15 @@
           "accessdate": "9 September 2013",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3026272&language=en",
+          "title": "Amiri Decree issued accepting resignations of Defense, Interior ministers",
+          "date": "17 February 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "17 February 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
