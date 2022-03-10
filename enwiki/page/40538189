@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "Its minister in charge is a member of the Cabinet of Kuwait and the current minister of interior is Mohammed Al-Fares.",
+              "text": "Its minister in charge is a member of the Cabinet of Kuwait and the current minister of interior is Ahmad Nawaf Al-Ahmad Al-Sabah.",
               "links": [
                 {
                   "type": "internal",
@@ -42,7 +42,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Mohammed Al-Fares"
+                  "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
                 }
               ]
             }
@@ -125,11 +125,11 @@
             ]
           },
           "minister1_name": {
-            "text": "Mohammed Al-Fares",
+            "text": "Ahmad Nawaf Al-Ahmad Al-Sabah",
             "links": [
               {
                 "type": "internal",
-                "page": "Mohammed Al-Fares"
+                "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
               }
             ]
           },
@@ -159,11 +159,11 @@
       ],
       "references": [
         {
-          "url": "https://www.reuters.com/world/middle-east/kuwait-emiri-decree-accepts-resignations-defence-interior-ministers-tweet-2022-02-17/",
-          "title": "Kuwait's emir accepts resignations of defence, interior ministers",
-          "date": "17 February 2022",
-          "work": "Reuters",
-          "accessdate": "17 February 2022",
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3028963&language=en",
+          "title": "Amiri Decree for appointing new interior, defense ministers",
+          "date": "9 March 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "9 March 2022",
           "template": "citation",
           "type": "news"
         }
@@ -1407,8 +1407,8 @@
           },
           {
             "#": {
-              "text": "14",
-              "number": 14
+              "text": "15",
+              "number": 15
             },
             "name": {
               "text": "Thamer Ali Sabah Al-Salem Al-Sabah",
@@ -1426,33 +1426,34 @@
               "text": "14 December 2020"
             },
             "interior tenure until": {
-              "text": "????"
+              "text": "14 November 2021"
             },
             "note": {
-              "text": ""
+              "text": "Acting Minister until 27 December 2021"
             }
           },
           {
             "#": {
-              "text": "15?"
+              "text": "16",
+              "number": 16
             },
             "name": {
-              "text": "Ahmed Mansour Al-Ahmed Al-Sabah",
+              "text": "Ahmad Mansour Al-Ahmad Al-Sabah",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Ahmed Mansour Al-Ahmed Al-Sabah"
+                  "page": "Ahmad Mansour Al-Ahmad Al-Sabah"
                 }
               ]
             },
             "title": {
-              "text": "Minister of Interior"
+              "text": "Deputy Prime Minister and Minister of Interior"
             },
             "interior tenure from": {
-              "text": "????"
+              "text": "28 December 2021"
             },
             "interior tenure until": {
-              "text": "17 February 2022"
+              "text": "16 February 2022"
             },
             "note": {
               "text": ""
@@ -1460,22 +1461,51 @@
           },
           {
             "#": {
-              "text": "16?"
+              "text": "17",
+              "number": 17
             },
             "name": {
-              "text": "Mohammed Al-Fares",
+              "text": "Dr. Mohammad Abdullatif Al-Fares",
               "links": [
                 {
+                  "text": "Dr. Mohammad Abdullatif Al-Fares",
                   "type": "internal",
-                  "page": "Mohammed Al-Fares"
+                  "page": "Mohammad Abdullatif Al-Fares"
                 }
               ]
             },
             "title": {
-              "text": "Oil Minister and caretaker Minister of Interior"
+              "text": "Minister of Interior (Acting)"
             },
             "interior tenure from": {
               "text": "17 February 2022"
+            },
+            "interior tenure until": {
+              "text": "8 March 2022"
+            },
+            "note": {
+              "text": ""
+            }
+          },
+          {
+            "#": {
+              "text": "18",
+              "number": 18
+            },
+            "name": {
+              "text": "Ahmad Nawaf Al-Ahmad Al-Sabah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
+                }
+              ]
+            },
+            "title": {
+              "text": "Deputy Prime Minister and Minister of Interior"
+            },
+            "interior tenure from": {
+              "text": "9 March 2022"
             },
             "interior tenure until": {
               "text": "Present",
@@ -1486,36 +1516,10 @@
               }
             },
             "note": {
-              "text": ""
+              "text": "Retired General"
             }
           }
         ]
-      ],
-      "templates": [
-        {
-          "date": "February 2022",
-          "template": "what"
-        },
-        {
-          "date": "February 2022",
-          "template": "how"
-        },
-        {
-          "date": "February 2022",
-          "template": "who"
-        },
-        {
-          "date": "February 2022",
-          "template": "cn"
-        },
-        {
-          "date": "February 2022",
-          "template": "cn"
-        },
-        {
-          "date": "February 2022",
-          "template": "cn"
-        }
       ],
       "references": [
         {
@@ -1552,11 +1556,47 @@
           "type": "news"
         },
         {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2962180&language=en",
+          "title": "Kuwait Amir issues decree forming new cabinet",
+          "date": "2 March 2021",
+          "work": "Kuwait News Agency",
+          "access-date": "2 March 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3019243&language=en",
+          "title": "Kuwait announces formation of new gov't",
+          "date": "28 December 2021",
+          "work": "Kuwait News Agency",
+          "access-date": "28 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2945562&language=en",
           "title": "Sheikh Sabah Al-Khaled presents cabinet line-up to Kuwait Amir",
           "date": "14 December 2020",
           "work": "Kuwait News Agency",
           "accessdate": "14 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3026272&language=en",
+          "title": "Amiri Decree issued accepting resignations of Defense, Interior ministers",
+          "date": "17 February 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "17 February 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/kuwait-emiri-decree-accepts-resignations-defence-interior-ministers-tweet-2022-02-17/",
+          "title": "Kuwait's emir accepts resignations of defence, interior ministers",
+          "date": "17 February 2022",
+          "work": "Reuters",
+          "accessdate": "17 February 2022",
           "template": "citation",
           "type": "news"
         }
