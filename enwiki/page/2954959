@@ -176,10 +176,10 @@
       ],
       "references": [
         {
+          "url": "https://www.cbk.gov.kw/en/about-cbk/governor/profile",
+          "title": "Central Bank of Kuwait: Profile",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "first2": "David",
