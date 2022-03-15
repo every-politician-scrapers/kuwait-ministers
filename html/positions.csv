@@ -1,5 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q246932,emir of Kuwait,Q817,Q817,,,1752,,,,Emir of Kuwait
+Q100877419,emir of Kuwait,Q817,Q817,,Q246932,1752,,,,
 Q30100649,Prime Minister of Kuwait,Q817,Q817,,Q2035020,1962-11-11,,,,
 Q110526533,Deputy Prime Minister of Kuwait,Q817,Q817,,,,,,,
 Q110525626,Kuwait Minister of Awqaf and Islamic Affairs,,Q817,,,,,,,

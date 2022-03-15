@@ -1,0 +1,31 @@
+id,name,relationship,relative,relativename
+Q104175576,Thamer Ali Sabah Al-Salem Al-Sabah,father,Q12228117,علي صباح السالم الصباح
+Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,father,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
+Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,mother,Q99766947,Fatouh Salman Al-Sabah
+Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,spouse,Q12208366,حصه صباح السالم الصباح
+Q20684349,Mohammed Khaled Al-Khadher,sibling,Q12212948,Rashed Khaled Al-Khadher
+Q217194,Jaber al-Ahmad al-Sabah,father,Q400907,Ahmad Al-Jaber Al-Sabah
+Q217194,Jaber al-Ahmad al-Sabah,mother,Q12200350,بيبي السالم الصباح
+Q217194,Jaber al-Ahmad al-Sabah,sibling,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
+Q313661,Saad Al-Abdullah Al-Salim Al-Sabah,father,Q2183167,Abdullah III Al-Salim Al-Sabah
+Q313661,Saad Al-Abdullah Al-Salim Al-Sabah,spouse,Q12237255,لطيفة الفهد السالم الصباح
+Q3327520,Muhammad Sabah Al-Salem Al-Sabah,father,Q2074907,Sabah III Al-Salim Al-Sabah
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,child,Q12247753,Nasser Sabah Al-Ahmad Al-Sabah
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,father,Q400907,Ahmad Al-Jaber Al-Sabah
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q12180517,أمثال الأحمد الجابر الصباح
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q12209885,Khalid al-Ahmad al-Xabir al-Saba
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q12223324,Abdala al-Ahmad al-Xabir al-Saba
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q12230681,Frayha Al-Ahmad
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q12243161,Mishal Al-Ahmad Al-Jaber Al-Sabah
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q1617724,Fahad Al-Ahmed Al-Jaber Al-Sabah
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q21069529,Mohammed Ahmad Al-Jaber Al-Sabah
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q217194,Jaber al-Ahmad al-Sabah
+Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,sibling,Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah
+Q6164155,Jassem Al-Kharafi,sibling,Q22276740,Fawzi Al-Kharafi
+Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,child,Q99373620,Salem Nawaf Al Sabah
+Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,father,Q400907,Ahmad Al-Jaber Al-Sabah
+Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,sibling,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
+Q6781875,Marzouq Al-Ghanim,father,Q85682837,Ali Thunayan Al-Ghanim
+Q6781875,Marzouq Al-Ghanim,mother,Q11921636,Fazia al-Kharafi
+Q96202201,Hamad Jaber Al-Ali Al-Sabah,father,Q12204053,جابر العلي السالم الصباح
+Q96202201,Hamad Jaber Al-Ali Al-Sabah,mother,Q20382395,Souad Al-Humaidhi
