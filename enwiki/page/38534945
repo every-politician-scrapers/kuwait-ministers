@@ -113,6 +113,33 @@
           },
           {
             "Incumbent": {
+              "text": "Ahmad Nawaf Al-Ahmad Al-Sabah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
+                }
+              ]
+            },
+            "Office": {
+              "text": "First Deputy Prime Minister and Minister of Interior",
+              "links": [
+                {
+                  "text": "Minister of Interior",
+                  "type": "internal",
+                  "page": "Ministry of Interior (Kuwait)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "https://www.moi.gov.kw/"
+            },
+            "Since": {
+              "text": "9 March 2022 – present"
+            }
+          },
+          {
+            "Incumbent": {
               "text": "Talal Khaled Al-Ahmad Al-Sabah",
               "links": [
                 {
@@ -157,33 +184,6 @@
             },
             "Since": {
               "text": "28 December 2021 – present"
-            }
-          },
-          {
-            "Incumbent": {
-              "text": "Ahmad Nawaf Al-Ahmad Al-Sabah",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
-                }
-              ]
-            },
-            "Office": {
-              "text": "Deputy Prime Minister and Minister of Interior",
-              "links": [
-                {
-                  "text": "Minister of Interior",
-                  "type": "internal",
-                  "page": "Ministry of Interior (Kuwait)"
-                }
-              ]
-            },
-            "Website": {
-              "text": "https://www.moi.gov.kw/"
-            },
-            "Since": {
-              "text": "9 March 2022 – present"
             }
           },
           {
