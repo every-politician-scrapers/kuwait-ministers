@@ -204,9 +204,19 @@
               ]
             },
             "Website": {
-              "text": "https://www.moi.gov.kw/"
+              "text": "First Deputy Prime Minister and Minister of Interior",
+              "links": [
+                {
+                  "text": "Minister of Interior",
+                  "type": "internal",
+                  "page": "Ministry of Interior (Kuwait)"
+                }
+              ]
             },
             "Since": {
+              "text": "https://www.moi.gov.kw/"
+            },
+            "col5": {
               "text": "28 December 2021 – 16 February 2022 17 February 2022 – 8 March 2022 9 March 2022 – present"
             }
           },
