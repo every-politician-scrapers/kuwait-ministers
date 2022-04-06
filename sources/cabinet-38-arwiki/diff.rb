@@ -3,7 +3,7 @@
 
 require 'every_politician_scraper/comparison'
 
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::NulllessComparison
   def wikidata_csv_options
     { converters: [->(v) { v.to_s.gsub(/^Nederlands /i, '').gsub(' van Nederland', '') }] }
   end
