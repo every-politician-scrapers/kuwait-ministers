@@ -26,4 +26,4 @@ qsv join --left pid $NAMED_CSV xid $LABEL_CSV |
 wd sparql -f csv wikidata.js | sed -e 's/T00:00:00Z//g' -e 's#http://www.wikidata.org/entity/##g' | qsv dedup -s psid | ifne tee wikidata.csv
 bundle exec ruby diff.rb | qsv sort -s wdid | tee diff.csv
 
-cd -
+cd ~-
