@@ -6,7 +6,7 @@ NAMED_CSV=$(mktemp)
 
 cd $(dirname $0)
 
-bundle exec ruby scraper.rb $(jq -r .source meta.json) | ifne tee scraped-ar.csv
+bundle exec ruby scraper.rb $(jq -r .source meta.json) > scraped-ar.csv
 
 # Get English versions of member names
 qsv select wdid scraped-ar.csv | qsv search Q | qsv dedup | qsv behead | xargs wd label > $LABEL_RAW
@@ -23,7 +23,7 @@ qsv join --left pid $NAMED_CSV xid $LABEL_CSV |
   qsv select wdid,name,arname,pid,enpos,position |
   qsv rename wdid,name,arname,pid,position,arposition > scraped.csv
 
-wd sparql -f csv wikidata.js | sed -e 's/T00:00:00Z//g' -e 's#http://www.wikidata.org/entity/##g' | qsv dedup -s psid | ifne tee wikidata.csv
+wd sparql -f csv wikidata.js | sed -e 's/T00:00:00Z//g' -e 's#http://www.wikidata.org/entity/##g' | qsv dedup -s psid > wikidata.csv
 bundle exec ruby diff.rb | qsv sort -s wdid | tee diff.csv
 
 cd ~-
