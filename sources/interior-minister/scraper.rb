@@ -9,6 +9,7 @@ require 'pry'
     REMAP = {
       'في المنصب'  => '',
       'يناير'      => 'January',
+      'فبرير'      => 'February',
       'فبراير'     => 'February',
       'مارس'       => 'March',
       'أبريل'      => 'April',
@@ -44,7 +45,7 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no name img title dates].freeze
+      %w[no name img title start end].freeze
     end
 
     def date_class
