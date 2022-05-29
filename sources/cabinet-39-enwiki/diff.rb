@@ -4,6 +4,10 @@
 require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
+  def columns
+    super - %i[startdate enddate]
+  end
+
   def wikidata_csv_options
     { converters: [->(v) { v.to_s.gsub(/^Nederlands /i, '').gsub(' van Nederland', '') }] }
   end

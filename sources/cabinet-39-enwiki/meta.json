@@ -1,4 +1,8 @@
 {
+    "jurisdiction": {
+        "name": "Kuwait",
+        "id": "Q817"
+    },
     "cabinet": {
         "id":     "Q110300636",
         "start":  "2021-12-28",
