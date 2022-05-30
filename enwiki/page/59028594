@@ -1,5 +1,5 @@
 {
-  "title": "Ministry of Social Affairs and Labour (Kuwait)",
+  "title": "Ministry of Social Affairs (Kuwait)",
   "pageID": 59028594,
   "categories": [
     "Government ministries of Kuwait",
@@ -16,102 +16,145 @@
         {
           "sentences": [
             {
-              "text": "The Ministry of Social Affairs and Labour is a government ministry in Kuwait.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kuwait"
-                }
-              ],
+              "text": "The Ministry of Social Affairs is one of the ministries of the State of Kuwait, which was previously known as (Ministry of Social Affairs and Labour), and the ministry is currently held by Dr. Mubarak Al-Matari.",
               "formatting": {
                 "bold": [
-                  "Ministry of Social Affairs and Labour"
+                  "Ministry of Social Affairs"
                 ]
               }
             }
           ]
-        },
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of kuwait"
+        }
+      ]
+    },
+    {
+      "title": "Ministry History",
+      "depth": 0,
+      "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Established in 1954, it is responsible for issuing of work permits and dealing with expatriates and enforcing labor regulation in the private sector.",
+              "text": "On December 14, 1954, Sheikh Abdullah Al-Salem Al-Sabah issued a decision of the Supreme Executive Committee under No. (T.",
               "links": [
                 {
-                  "text": "work permits",
+                  "text": "Sheikh Abdullah Al-Salem Al-Sabah",
                   "type": "internal",
-                  "page": "Work permit"
-                },
-                {
-                  "text": "expatriates",
-                  "type": "internal",
-                  "page": "Expatriate"
+                  "page": "Abdullah Al-Salim Al-Sabah"
                 }
               ]
             },
             {
-              "text": "It has a number of halls across the country normally used for social occasions which were opened as shelters in the flooding in November 2018.",
-              "links": [
-                {
-                  "text": "flooding",
-                  "type": "internal",
-                  "page": "Flood"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Essa Al Kandari is the current minister."
+              "text": "63/41) to establish the Department of Social Affairs, and on January 17, 1962, in accordance with Amiri Decree No. 2 of 1962, the name of the department was changed to “Ministry of Social Affairs and Labour” until the issuance of Law No. 109 of 2013, which stipulates the separation of the labour sector from the ministry and the change of the ministry’s name to (Ministry of Social Affairs), the State of Kuwait established the Public Authority for Manpower to assume all responsibilities related to the labour sector since its inception to this day."
             }
           ]
         }
       ],
       "references": [
         {
-          "title": "Ministry Of Social Affairs And Labour",
-          "url": "https://www.kuwaitlocal.com/business/ministry-of-social-affairs-and-labour",
-          "accessdate": "11 November 2018",
-          "publisher": "Kuwait Local",
-          "date": "2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Call to Coordinate Efforts in ‘Protecting Rights’ of Expats",
-          "url": "https://qkuwait.com/tags/mosal",
-          "accessdate": "11 November 2018",
-          "publisher": "QKuwait",
-          "date": "18 May 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Kuwait Labor Law",
-          "url": "https://www.kuwaitlaborlaw.com/",
-          "website": "Kuwait Labor Law",
-          "accessdate": "11 November 2018",
+          "date": "2020-11-11",
+          "title": "نماذج وزارة الشئون الاجتماعية والعمل بالكويت وخدماتها الإلكترونية",
+          "url": "https://mhtwyat.com/نماذج-وزارة-الشئون-الاجتماعية-والعمل/",
+          "access-date": "2022-05-05",
+          "website": "موقع محتويات",
+          "language": "ar",
           "template": "citation",
           "type": "web"
         },
         {
-          "title": "Kuwait gov’t bodies mobilized to deal with heavy rainfall",
-          "url": "http://news.kuwaittimes.net/website/kuwait-govt-bodies-mobilized-to-deal-with-heavy-rainfall/",
-          "accessdate": "11 November 2018",
-          "work": "Kuwait Times",
-          "date": "10 November 2018",
+          "title": "قانون إنشاء الهيئة - الهيئة العامة للقوى العاملة",
+          "url": "https://www.manpower.gov.kw/EstablishmentLaw.aspx",
+          "access-date": "2022-05-05",
+          "website": "www.manpower.gov.kw",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
-          "title": "Kuwaiti minister’s visit signals renewed cooperation",
-          "url": "https://www.khmertimeskh.com/50548710/kuwaiti-ministers-visit-signals-renewed-cooperation/",
-          "accessdate": "11 November 2018",
-          "work": "Khmer Times",
-          "date": "9 November 2018",
+          "title": "نبذة عن وزارة الشؤون الاجتماعية والعمل :",
+          "url": "https://www.rinnoo.net/ar-kw/location/219/ministry-of-social-affairs-and-labor-mosal/about/",
+          "access-date": "2022-05-05",
+          "website": "موقع رنوو.نت",
+          "language": "ar",
           "template": "citation",
-          "type": "news"
+          "type": "web"
+        },
+        {
+          "title": "برنامج #شارع_السور .. يستضيف سعد الخراز / وكيل وزارة الشؤون الاجتماعية والعمل",
+          "url": "https://www.youtube.com/watch?v=CAa_2EOHYf8",
+          "language": "en",
+          "access-date": "2022-05-05",
+          "template": "citation",
+          "type": "citation"
+        }
+      ]
+    },
+    {
+      "title": "Ministry tasks",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Department of Social Affairs seeks to achieve social welfare for all citizens, provide social services to those who request them, specifically those with special needs, work on regulating employment at the governmental and civil levels, combat unemployment, train national workers, and settle labour complaints, as well as undertake matters related to social guidance and direction, through publications, periodicals, and other media."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The social services provided by the department in 1956 extended to include the sale baskets that were granted free of charge to people with limited incomes, training girls through the establishment of a specialized center for finding an appropriate work, as well as establishing social units that take care of the family socially and financially, in addition to establishing a nursing home in 1957."
+            },
+            {
+              "text": "Tasks were added to this department (social control of cinema, films, theater, works), other social and labour activities were added to the department's tasks, such as industrial credit, relations between workers and employers, labour inspection, vocational rehabilitation for people with disabilities, youth care, and supervision of clubs and bodies Eligibility, and adult education."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It also exercises its supervisory and regulatory role and supervises the elections of the boards of directors of cooperative societies and public benefit societies, which in turn have recently become electronically managed."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "الفضلي الشؤون تسعى دائما لإيجاد حلول لقضايا المرأة",
+          "url": "https://www.alanba.com.kw/452383",
+          "access-date": "2022-05-05",
+          "website": "www.alanba.com.kw",
+          "language": "ar-kw",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "وزارة الشئون الإجتماعية والعمل في الكويت",
+          "url": "https://www.almrsal.com/post/426723",
+          "access-date": "2022-05-05",
+          "website": "المرسال",
+          "language": "ar",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "وزارة الشؤون الاجتماعية والعمل تطبق النظام الالكتروني فى انتخابات الجمعيات",
+          "url": "https://www.youtube.com/watch?v=EqaDI0eEnJ8",
+          "language": "en",
+          "access-date": "2022-05-05",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "title": "برنامج (ليالي الكويت) يستضيف وكيل وزارة الشؤون الاجتماعية والعمل عبدالعزيز شعيب عبر تلفزيون الكويت",
+          "url": "https://www.youtube.com/watch?v=D57iTxwsUZ0",
+          "language": "en",
+          "access-date": "2022-05-05",
+          "template": "citation",
+          "type": "citation"
         }
       ]
     },

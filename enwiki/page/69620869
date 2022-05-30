@@ -83,6 +83,18 @@
             },
             {
               "text": "On 9 March 2022, an Amiri Decree has been issued appointing the interior minister and defense minister."
+            },
+            {
+              "text": "On 22 March 2022, cabinet reshuffle took place, with the 3 existing minister being reassigned portfolios."
+            },
+            {
+              "text": "On 5 April 2022, the Prime Minister tendered a letter of governmental resignation to the Crown Prince."
+            },
+            {
+              "text": "On 10 May 2022, the Emir accepted the government resignation."
+            },
+            {
+              "text": "The government will function as care-taker until the formation of the new government."
             }
           ]
         }
@@ -114,22 +126,68 @@
               "text": "http://www.pm.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
             "Incumbent": {
-              "text": "Hamad Jaber Al-Ali Al-Sabah Dr. Ahmad Nasser Al-Mohammad Al-Sabah (Acting) Talal Khaled Al-Ahmad Al-Sabah",
+              "text": "Hamad Jaber Al-Ali Al-Sabah",
               "links": [
                 {
                   "type": "internal",
                   "page": "Hamad Jaber Al-Ali Al-Sabah"
-                },
+                }
+              ]
+            },
+            "Office": {
+              "text": "Deputy Prime Minister and Minister of Defense",
+              "links": [
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Ministry of Defense (Kuwait)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "https://www.mod.gov.kw/"
+            },
+            "Since": {
+              "text": "28 December 2021 – 16 February 2022"
+            }
+          },
+          {
+            "Incumbent": {
+              "text": "Dr. Ahmad Nasser Al-Mohammad Al-Sabah (Acting)",
+              "links": [
                 {
                   "text": "Dr. Ahmad Nasser Al-Mohammad Al-Sabah",
                   "type": "internal",
                   "page": "Ahmad Nasser Al Mohammad Al-Sabah"
-                },
+                }
+              ]
+            },
+            "Office": {
+              "text": "Minister of Defense",
+              "links": [
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Ministry of Defense (Kuwait)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "https://www.mod.gov.kw/"
+            },
+            "Since": {
+              "text": "17 February 2022 – 8 March 2022"
+            }
+          },
+          {
+            "Incumbent": {
+              "text": "Talal Khaled Al-Ahmad Al-Sabah",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Talal Khaled Al-Ahmad Al-Sabah"
@@ -150,7 +208,7 @@
               "text": "https://www.mod.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – 16 February 2022 17 February 2022 – 8 March 2022 9 March 2022 – present"
+              "text": "9 March 2022 – 10 May 2022"
             }
           },
           {
@@ -171,25 +229,36 @@
               "text": "https://www.mew.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 21 March 2022"
             }
           },
           {
             "Incumbent": {
-              "text": "Ahmad Mansour Al-Ahmad Al-Sabah Dr. Mohammad Abdullatif Al-Fares (Acting) Ahmad Nawaf Al-Ahmad Al-Sabah",
+              "text": "Ali Hussein Al-Mousa",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ali Hussein Al-Mousa"
+                }
+              ]
+            },
+            "Office": {
+              "text": "Minister of Electricity, Water and Renewable Energy"
+            },
+            "Website": {
+              "text": "https://www.mew.gov.kw/"
+            },
+            "Since": {
+              "text": "22 March 2022 – 10 May 2022"
+            }
+          },
+          {
+            "Incumbent": {
+              "text": "Ahmad Mansour Al-Ahmad Al-Sabah",
               "links": [
                 {
                   "type": "internal",
                   "page": "Ahmad Mansour Al-Ahmad Al-Sabah"
-                },
-                {
-                  "text": "Dr. Mohammad Abdullatif Al-Fares",
-                  "type": "internal",
-                  "page": "Mohammad Abdullatif Al-Fares"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
                 }
               ]
             },
@@ -204,6 +273,51 @@
               ]
             },
             "Website": {
+              "text": "https://www.moi.gov.kw/"
+            },
+            "Since": {
+              "text": "28 December 2021 – 16 February 2022"
+            }
+          },
+          {
+            "Incumbent": {
+              "text": "Dr. Mohammad Abdullatif Al-Fares (Acting)",
+              "links": [
+                {
+                  "text": "Dr. Mohammad Abdullatif Al-Fares",
+                  "type": "internal",
+                  "page": "Mohammad Abdullatif Al-Fares"
+                }
+              ]
+            },
+            "Office": {
+              "text": "Deputy Prime Minister and Minister of Interior",
+              "links": [
+                {
+                  "text": "Minister of Interior",
+                  "type": "internal",
+                  "page": "Ministry of Interior (Kuwait)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "https://www.moi.gov.kw/"
+            },
+            "Since": {
+              "text": "17 February 2022 – 8 March 2022"
+            }
+          },
+          {
+            "Incumbent": {
+              "text": "Ahmad Nawaf Al-Ahmad Al-Sabah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmad Nawaf Al-Ahmad Al-Sabah"
+                }
+              ]
+            },
+            "Office": {
               "text": "First Deputy Prime Minister and Minister of Interior",
               "links": [
                 {
@@ -213,11 +327,11 @@
                 }
               ]
             },
-            "Since": {
+            "Website": {
               "text": "https://www.moi.gov.kw/"
             },
-            "col5": {
-              "text": "28 December 2021 – 16 February 2022 17 February 2022 – 8 March 2022 9 March 2022 – present"
+            "Since": {
+              "text": "9 March 2022 – 10 May 2022"
             }
           },
           {
@@ -245,7 +359,7 @@
               "text": "https://www.moo.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -272,7 +386,7 @@
               "text": "http://www.islam.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -299,7 +413,7 @@
               "text": "https://www.moci.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -320,7 +434,7 @@
               "text": "https://www.moe.edu.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -348,7 +462,7 @@
               "text": "https://www.mof.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -376,7 +490,7 @@
               "text": "https://www.mofa.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -397,7 +511,7 @@
               "text": "https://www.moh.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -418,7 +532,7 @@
               "text": "https://www.mohe.edu.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -439,7 +553,7 @@
               "text": "https://www.moj.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -460,7 +574,7 @@
               "text": "https://media.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -480,7 +594,7 @@
               "text": "http://www.mpw.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -500,7 +614,7 @@
               "text": "https://www.mosa.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -515,13 +629,34 @@
               ]
             },
             "Office": {
+              "text": "Deputy Prime Minister and Minister of State for Cabinet Affairs"
+            },
+            "Website": {
+              "text": "https://www.cmgs.gov.kw/"
+            },
+            "Since": {
+              "text": "28 December 2021 – 21 March 2022"
+            }
+          },
+          {
+            "Incumbent": {
+              "text": "Dr. Mohammad Abdullatif Al-Fares",
+              "links": [
+                {
+                  "text": "Dr. Mohammad Abdullatif Al-Fares",
+                  "type": "internal",
+                  "page": "Mohammad Abdullatif Al-Fares"
+                }
+              ]
+            },
+            "Office": {
               "text": "Minister of State for Cabinet Affairs"
             },
             "Website": {
               "text": "https://www.cmgs.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "22 March 2022 - 10 May 2022"
             }
           },
           {
@@ -542,7 +677,7 @@
               "text": "http://moc.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -563,7 +698,7 @@
               "text": ""
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -583,7 +718,7 @@
               "text": "https://www.pahw.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -604,7 +739,7 @@
               "text": "https://www.baladia.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -624,7 +759,7 @@
               "text": "https://www.mona.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
@@ -645,16 +780,20 @@
               "text": "https://www.nazaha.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           },
           {
             "Incumbent": {
-              "text": "Ali Hussein Al-Mousa",
+              "text": "Ali Hussein Al-Mousa Mohammad Obaid Al-Rajhi",
               "links": [
                 {
                   "type": "internal",
                   "page": "Ali Hussein Al-Mousa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mohammad Obaid Al-Rajhi"
                 }
               ]
             },
@@ -665,7 +804,7 @@
               "text": "https://www.youth.gov.kw/"
             },
             "Since": {
-              "text": "28 December 2021 – present"
+              "text": "28 December 2021 – 10 May 2022"
             }
           }
         ]
@@ -714,6 +853,33 @@
           "type": "news"
         },
         {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3033363&language=en",
+          "title": "Kuwait Crown Prince receives resignation letter from PM",
+          "date": "5 April 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "5 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3033389&language=en",
+          "title": "Speaker Al-Ghanim: Tomorrow's session cancelled after Kuwait PM submits resignation",
+          "date": "5 April 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "5 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3037166&language=en",
+          "title": "Kuwait Amir accepts gov't resignation, assigns cabinet to act as caretaker - Amiri Order",
+          "date": "10 May 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "10 May 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3026272&language=en",
           "title": "Amiri Decree issued accepting resignations of Defense, Interior ministers",
           "date": "17 February 2022",
@@ -728,6 +894,15 @@
           "date": "9 March 2022",
           "work": "Kuwait News Agency",
           "access-date": "9 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3031630&language=en",
+          "title": "Kuwait decides cabinet reshuffle",
+          "date": "22 March 2022",
+          "work": "Kuwait News Agency",
+          "access-date": "22 March 2022",
           "template": "citation",
           "type": "news"
         }
@@ -749,46 +924,6 @@
               {
                 "type": "internal",
                 "page": "Cabinet of Kuwait"
-              }
-            ]
-          },
-          {
-            "text": "35th Cabinet of Kuwait",
-            "links": [
-              {
-                "text": "35th Cabinet of Kuwait",
-                "type": "internal",
-                "page": "35th Cabinet of Kuwait"
-              }
-            ]
-          },
-          {
-            "text": "36th Cabinet of Kuwait",
-            "links": [
-              {
-                "text": "36th Cabinet of Kuwait",
-                "type": "internal",
-                "page": "36th Cabinet of Kuwait"
-              }
-            ]
-          },
-          {
-            "text": "37th Cabinet of Kuwait",
-            "links": [
-              {
-                "text": "37th Cabinet of Kuwait",
-                "type": "internal",
-                "page": "37th Cabinet of Kuwait"
-              }
-            ]
-          },
-          {
-            "text": "38th Cabinet of Kuwait",
-            "links": [
-              {
-                "text": "38th Cabinet of Kuwait",
-                "type": "internal",
-                "page": "38th Cabinet of Kuwait"
               }
             ]
           }
