@@ -1,6 +1,6 @@
 {
   "office1": "Prime Minister of Kuwait",
-  "monarch1": "Sabah Al-Ahmad Al-Jaber Nawaf Al-Ahmad Al-Jaber",
+  "monarch1": "Sabah Al-Ahmad Al-Jaber\n\nNawaf Al-Ahmad Al-Jaber",
   "term_start1": "19 November 2019",
   "deputy1": "Mohammad Al Khalid Al Sabah",
   "predecessor1": "Jaber Al-Mubarak",
@@ -12,7 +12,7 @@
   "predecessor2": "Jaber Al-Mubarak",
   "successor2": "Mohammad Al Khalid",
   "office3": "Minister of Foreign Affairs",
-  "primeminister3": "Nasser Mohammed Al-Ahmed Jaber Al-Mubarak",
+  "primeminister3": "Nasser Mohammed Al-Ahmed\n\nJaber Al-Mubarak",
   "term_start3": "22 October 2011",
   "term_end3": "19 November 2019",
   "predecessor3": "Muhammad Al Sabah",
