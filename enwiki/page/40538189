@@ -483,7 +483,7 @@
               "text": "Sheikh Ali Khalifa Al-Abdullah II Al-Sabah"
             },
             "col3": {
-              "text": "General Commander"
+              "text": ""
             },
             "col4": {
               "text": "1938",
@@ -516,13 +516,7 @@
               "text": "Sheikh Abdullah Mubarak Al-Sabah"
             },
             "col3": {
-              "text": "Field Marshal",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Field Marshal"
-                }
-              ]
+              "text": ""
             },
             "col4": {
               "text": "1942",
@@ -561,6 +555,20 @@
             }
           }
         ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "General Commander"
+          ],
+          "template": "center"
+        },
+        {
+          "list": [
+            "Field Marshal"
+          ],
+          "template": "center"
+        }
       ]
     },
     {
@@ -634,14 +642,7 @@
               ]
             },
             "col3": {
-              "text": "President",
-              "links": [
-                {
-                  "text": "President",
-                  "type": "internal",
-                  "page": "President (government title)"
-                }
-              ]
+              "text": ""
             },
             "col4": {
               "text": "1953",
@@ -682,7 +683,7 @@
               ]
             },
             "col3": {
-              "text": "General Commander"
+              "text": ""
             },
             "col4": {
               "text": "1961",
@@ -729,6 +730,20 @@
             }
           }
         ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "President"
+          ],
+          "template": "center"
+        },
+        {
+          "list": [
+            "General Commander"
+          ],
+          "template": "center"
+        }
       ]
     },
     {
