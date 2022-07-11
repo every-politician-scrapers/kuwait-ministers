@@ -19,12 +19,12 @@
               "text": "Ministry of Finance is one of the governmental bodies of Kuwait and part of the cabinet.",
               "links": [
                 {
-                  "text": "the governmental bodies",
+                  "text": "governmental bodies",
                   "type": "internal",
                   "page": "Government of Kuwait"
                 },
                 {
-                  "text": "the cabinet",
+                  "text": "cabinet",
                   "type": "internal",
                   "page": "Cabinet of Kuwait"
                 }
@@ -44,7 +44,7 @@
           "template": "short description"
         },
         {
-          "date": "June 2022",
+          "date": "July 2022",
           "template": "use dmy dates"
         },
         {
@@ -75,11 +75,11 @@
             "text": "Finance Department"
           },
           "jurisdiction": {
-            "text": "Kuwait",
+            "text": "Government of Kuwait",
             "links": [
               {
                 "type": "internal",
-                "page": "Kuwait"
+                "page": "Government of Kuwait"
               }
             ]
           },
@@ -221,7 +221,7 @@
           "title": "Brief History",
           "url": "http://www.moo.gov.kw/About-Us/Brief-History.aspx",
           "work": "Ministry of Oil",
-          "accessdate": "21 December 2013",
+          "access-date": "21 December 2013",
           "template": "citation",
           "type": "web"
         },
@@ -242,7 +242,7 @@
           "work": "Ministry of Finance",
           "access-date": "21 December 2013",
           "url-status": "dead",
-          "archivedate": "24 December 2013",
+          "archive-date": "24 December 2013",
           "df": "dmy-all",
           "archive-url": "https://web.archive.org/web/20131224105859/http://en.mof.gov.kw/MOFInfo/MOFBrief/MOFBrief.aspx",
           "template": "citation",
@@ -526,7 +526,7 @@
         {
           "title": "Kuwait's new cabinet",
           "url": "http://www.globalpost.com/dispatch/news/afp/130804/kuwaits-new-cabinet",
-          "accessdate": "21 December 2013",
+          "access-date": "21 December 2013",
           "newspaper": "Global Post",
           "date": "4 August 2013",
           "agency": "AFP",
@@ -539,7 +539,7 @@
         {
           "title": "Kuwait cabinet reshuffle brings seven new faces",
           "url": "http://www.aawsat.net/2014/01/article55326744",
-          "accessdate": "10 September 2014",
+          "access-date": "10 September 2014",
           "work": "Asharq Al Awsat",
           "date": "7 January 2014",
           "location": "London",
@@ -590,7 +590,13 @@
             "33em"
           ],
           "template": "reflist"
-        },
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
         {
           "template": "authority control"
         }
