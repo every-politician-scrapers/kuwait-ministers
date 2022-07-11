@@ -107,11 +107,11 @@
             ]
           },
           "jurisdiction": {
-            "text": "Kuwait",
+            "text": "Government of Kuwait",
             "links": [
               {
                 "type": "internal",
-                "page": "Kuwait"
+                "page": "Government of Kuwait"
               }
             ]
           },

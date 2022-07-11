@@ -18,7 +18,7 @@
               "text": "The Ministry of Foreign Affairs is one of the governmental bodies of Kuwait and part of the cabinet.",
               "links": [
                 {
-                  "text": "the governmental bodies",
+                  "text": "governmental bodies",
                   "type": "internal",
                   "page": "Government of Kuwait"
                 },
@@ -27,7 +27,7 @@
                   "page": "Kuwait"
                 },
                 {
-                  "text": "the cabinet",
+                  "text": "cabinet",
                   "type": "internal",
                   "page": "Cabinet of Kuwait"
                 }
@@ -37,6 +37,9 @@
                   "Ministry of Foreign Affairs"
                 ]
               }
+            },
+            {
+              "text": "It was started in 1961."
             }
           ]
         }
@@ -47,7 +50,7 @@
           "template": "short description"
         },
         {
-          "date": "July 2021",
+          "date": "July 2022",
           "template": "use dmy dates"
         },
         {
@@ -81,11 +84,11 @@
             "text": "Foreign Affairs Department Bureau"
           },
           "jurisdiction": {
-            "text": "Kuwait",
+            "text": "Government of Kuwait",
             "links": [
               {
                 "type": "internal",
-                "page": "Kuwait"
+                "page": "Government of Kuwait"
               }
             ]
           },
@@ -170,10 +173,10 @@
         {
           "sentences": [
             {
-              "text": "The ministry of foreign affairs of the State of Kuwait delegates Ambassadors and military attachés bureaux in foreign diplomatic missions in countries such as the United States, Russia, United Kingdom, Germany, France, China, Italy and Korea.",
+              "text": "The ministry of foreign affairs of the State of Kuwait delegates ambassadors and military attachés bureaux in foreign diplomatic missions in countries such as the United States, Russia, United Kingdom, Germany, France, China, Italy and Korea.",
               "links": [
                 {
-                  "text": "Ambassadors",
+                  "text": "ambassadors",
                   "type": "internal",
                   "page": "List of diplomatic missions of Kuwait"
                 },
@@ -231,19 +234,19 @@
           "publisher": "Syracuse University Press",
           "location": "Syracuse, NY",
           "page": "173",
-          "url": "https://www.questia.com/read/43044056/kuwait-social-change-in-historical-perspective",
-          "author": "Jacqueline S. Ismael}}{{dl|date=July 2021|undefined",
+          "isbn": "9780815622543",
+          "author": "Jacqueline S. Ismael",
           "template": "citation",
           "type": "book"
         },
         {
           "title": "Independence and building the modern state",
+          "access-date": "12 October 2013",
           "url": "http://www.da.gov.kw/eng/aboutkuwait/independence.php",
           "work": "Al Diwan Al Amiri",
-          "access-date": "12 October 2013",
+          "url-status": "dead",
           "archive-url": "https://web.archive.org/web/20131014095208/http://www.da.gov.kw/eng/aboutkuwait/independence.php",
           "archive-date": "14 October 2013",
-          "url-status": "dead",
           "template": "citation",
           "type": "web"
         }
@@ -371,7 +374,7 @@
               "text": "2011–2019"
             },
             "Note": {
-              "text": "Kuwait's permanent member mission to the United Nations (1983–1989) Kuwait's Ambassador to Saudi Arabia (1995–1998) Kuwait's Prime Minister (2019–Present)",
+              "text": "Kuwait's permanent member mission to the United Nations (1983–1989) Kuwait's Ambassador to Saudi Arabia (1995–1998) Kuwait's Prime Minister(2019–Present)",
               "links": [
                 {
                   "type": "internal",
@@ -480,15 +483,6 @@
               {
                 "type": "internal",
                 "page": "Foreign relations of Kuwait"
-              }
-            ]
-          },
-          {
-            "text": "List of diplomatic missions in Kuwait",
-            "links": [
-              {
-                "type": "internal",
-                "page": "List of diplomatic missions in Kuwait"
               }
             ]
           }
