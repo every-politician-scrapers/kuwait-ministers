@@ -389,7 +389,14 @@
               ]
             },
             "Office": {
-              "text": "Minister of Health"
+              "text": "Minister of Health",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Kuwait)"
+                }
+              ]
             },
             "Website": {
               "text": "https://www.moh.gov.kw/"
