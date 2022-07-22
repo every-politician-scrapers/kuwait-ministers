@@ -112,6 +112,9 @@
           "term_start1": {
             "text": "19 November 2019"
           },
+          "term_end1": {
+            "text": "July 2022"
+          },
           "deputy1": {
             "text": "Mohammad Al Khalid Al Sabah",
             "links": [
@@ -132,7 +135,14 @@
             ]
           },
           "successor1": {
-            "text": "TBD"
+            "text": "Mohammad Sabah (designated)",
+            "links": [
+              {
+                "text": "Mohammad Sabah",
+                "type": "internal",
+                "page": "Mohammad Sabah Al-Salem Al-Sabah"
+              }
+            ]
           },
           "office2": {
             "text": "Deputy Prime Minister of Kuwait",
@@ -737,7 +747,8 @@
           "template": "s-ttl"
         },
         {
-          "template": "s-vac"
+          "after": "Ahmed Nasser Al Sabah",
+          "template": "s-aft"
         },
         {
           "before": "Jaber Al-Mubarak",
@@ -758,11 +769,11 @@
         },
         {
           "title": "Prime Minister of Kuwait",
-          "years": "2019–present",
+          "years": "2019–July 2022",
           "template": "s-ttl"
         },
         {
-          "after": "TBD",
+          "after": "Mohammad Sabah",
           "template": "s-aft"
         },
         {
